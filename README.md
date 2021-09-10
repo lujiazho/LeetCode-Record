@@ -22,6 +22,9 @@ A record for coding practice on leetcode
 #### 2 Interval DP
 
 #### 3 Counting Problem DP
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)|Hard
 
 #### 4 Digital Statistics DP(not precise probably
 
