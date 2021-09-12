@@ -18,6 +18,14 @@ A record for coding practice on leetcode
 #### 3 Heap Optimization
 
 ### Ⅲ Search and Graph theory
+#### 1 DFS
+
+#### 2 Topological Sorting
+
+#### 3 Shortest Path
+|leetcode题目|Python代码|难度|
+|---|---|---
+|(Dijkstra or any other)[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[reachable-nodes-in-subdivided-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/882-reachable-nodes-in-subdivided-graph.py)|Hard
 
 ### Ⅳ Mathematics
 
