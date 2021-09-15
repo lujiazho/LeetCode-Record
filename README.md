@@ -7,6 +7,11 @@ A record for coding practice on leetcode
 |(iteratively+recursively)[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[reverse-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/206-reverse-linked-list.py)|Easy
 |(suffix sum)[848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/848-shifting-letters.py)|Medium
 
+#### 1 one Pointer
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[longest-turbulent-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/978-longest-turbulent-subarray.py)|Medium
+
 #### 1 Two Pointer
 |leetcode题目|Python代码|难度|
 |---|---|---
