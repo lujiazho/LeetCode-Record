@@ -12,10 +12,15 @@ A record for coding practice on leetcode
 |---|---|---
 |[978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[longest-turbulent-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/978-longest-turbulent-subarray.py)|Medium
 
-#### 1 Two Pointer
+#### 2 Two Pointer
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[reverse-only-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/917-reverse-only-letters.py)|Easy
+
+#### 3 Simulation(not from ACwing
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[spiral-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/54-spiral-matrix.py)|Medium
 
 ### Ⅱ Data Structure
 #### 1 Heap
