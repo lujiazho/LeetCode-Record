@@ -40,6 +40,9 @@ A record for coding practice on leetcode
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[expression-add-operators](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/282-expression-add-operators.py)|Hard
 
 #### 2 Topological Sorting
 
