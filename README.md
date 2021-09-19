@@ -67,6 +67,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)|Hard
+|[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[distinct-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/115-distinct-subsequences.py)|Hard
 
 #### 4 Digital Statistics DP(not precise probably
 
