@@ -21,6 +21,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[spiral-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/54-spiral-matrix.py)|Medium
+|[1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[find-winner-on-a-tic-tac-toe-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1275-find-winner-on-a-tic-tac-toe-game.py)|Easy
 
 ### Ⅱ Data Structure
 #### 1 Heap
