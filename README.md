@@ -77,3 +77,8 @@ A record for coding practice on leetcode
 #### 6 Memory Search
 
 ### Ⅵ Greedy Algorithm
+
+### Ⅶ No Classification
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/485-max-consecutive-ones.py)|Easy
