@@ -44,6 +44,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[expression-add-operators](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/282-expression-add-operators.py)|Hard
+|(DFSorDP)[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py)|Medium
 
 #### 2 Topological Sorting
 
