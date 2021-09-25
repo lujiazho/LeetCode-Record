@@ -47,9 +47,14 @@ A record for coding practice on leetcode
 |[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[expression-add-operators](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/282-expression-add-operators.py)|Hard
 |(DFSorDP)[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py)|Medium
 
-#### 2 Topological Sorting
+#### 2 BFS
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.py)|Hard
 
-#### 3 Shortest Path
+#### 3 Topological Sorting
+
+#### 4 Shortest Path
 |leetcode题目|Python代码|难度|
 |---|---|---
 |(Dijkstra or any other)[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[reachable-nodes-in-subdivided-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/882-reachable-nodes-in-subdivided-graph.py)|Hard
