@@ -90,3 +90,8 @@ A record for coding practice on leetcode
 |---|---|---
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/485-max-consecutive-ones.py)|Easy
 |[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.py)|Medium
+
+### Ⅶ Math Property
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[782. Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[transform-to-chessboard](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/782-transform-to-chessboard.py)|Hard
