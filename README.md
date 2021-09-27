@@ -90,7 +90,7 @@ A record for coding practice on leetcode
 |---|---|---
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/485-max-consecutive-ones.py)|Easy
 |[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.py)|Medium
-|[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/485-unique-email-addresses.py)|Easy
+|[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/929-unique-email-addresses.py)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
