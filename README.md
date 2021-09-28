@@ -17,6 +17,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[reverse-only-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/917-reverse-only-letters.py)|Easy
+|[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/922-sort-array-by-parity-ii.py)|Easy
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|难度|
