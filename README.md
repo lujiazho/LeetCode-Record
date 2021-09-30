@@ -47,6 +47,7 @@ A record for coding practice on leetcode
 |---|---|---
 |[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[expression-add-operators](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/282-expression-add-operators.py)|Hard
 |(DFSorDP)[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py)|Medium
+|[698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[partition-to-k-equal-sum-subsets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/698-partition-to-k-equal-sum-subsets.py)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|难度|
