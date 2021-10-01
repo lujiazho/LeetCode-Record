@@ -70,6 +70,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |(like preprocessing)[764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[largest-plus-sign](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/764-largest-plus-sign.py)|Medium
+|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[longest-common-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1143-longest-common-subsequence.py)|Medium
 
 #### 2 Interval DP
 
