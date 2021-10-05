@@ -73,6 +73,7 @@ A record for coding practice on leetcode
 |(like preprocessing)[764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[largest-plus-sign](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/764-largest-plus-sign.py)|Medium
 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[longest-common-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1143-longest-common-subsequence.py)|Medium
 |(DFSorDP)[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[dungeon-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/174-dungeon-game.py)|Hard
+|(DFSorDP)[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbing-stairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/70-climbing-stairs.py)|Easy
 
 #### 2 Interval DP
 
