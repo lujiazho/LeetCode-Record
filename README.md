@@ -41,6 +41,7 @@ A record for coding practice on leetcode
 |---|---|---
 |[1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[maximum-number-of-balloons](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1189-maximum-number-of-balloons.py)|Easy
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/350-intersection-of-two-arrays-ii.py)|Easy
+|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[find-all-duplicates-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/442-find-all-duplicates-in-an-array.py)|Medium
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
