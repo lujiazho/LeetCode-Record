@@ -43,6 +43,11 @@ A record for coding practice on leetcode
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/350-intersection-of-two-arrays-ii.py)|Easy
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[find-all-duplicates-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/442-find-all-duplicates-in-an-array.py)|Medium
 
+#### 5 Trie
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[implement-trie-prefix-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/208-implement-trie-prefix-tree.py)|Medium
+
 ### Ⅲ Search and Graph theory
 #### 1 DFS
 |leetcode题目|Python代码|难度|
