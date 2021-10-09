@@ -47,6 +47,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[implement-trie-prefix-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/208-implement-trie-prefix-tree.py)|Medium
+|[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[word-search-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/212-word-search-ii.py)|Hard
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
