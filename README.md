@@ -8,6 +8,7 @@ A record for coding practice on leetcode
 |(suffix sum)[848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/848-shifting-letters.py)|Medium
 |(iteratively+recursively)[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[n-th-tribonacci-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1137-n-th-tribonacci-number.py)|Easy
 |(preorder traversal)[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[diameter-of-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/543-diameter-of-binary-tree.py)|Easy
+|(binary search)[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[guess-number-higher-or-lower](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/374-guess-number-higher-or-lower.py)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
