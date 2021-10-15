@@ -94,6 +94,7 @@ A record for coding practice on leetcode
 |[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)|Hard
 |[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[distinct-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/115-distinct-subsequences.py)|Hard
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[perfect-squares](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/279-perfect-squares.py)|Medium
+|[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/309-best-time-to-buy-and-sell-stock-with-cooldown.py)|Medium
 
 #### 4 Digital Statistics DP(not precise probably
 
