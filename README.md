@@ -102,6 +102,9 @@ A record for coding practice on leetcode
 #### 5 State Compression DP
 
 #### 6 Memory Search
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[path-sum-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/437-path-sum-iii.py)|Medium
 
 ### Ⅵ Greedy Algorithm
 
