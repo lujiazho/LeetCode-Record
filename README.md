@@ -10,6 +10,7 @@ A record for coding practice on leetcode
 |(preorder traversal)[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[diameter-of-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/543-diameter-of-binary-tree.py)|Easy
 |(binary search)[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[guess-number-higher-or-lower](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/374-guess-number-higher-or-lower.py)|Easy
 |(binary search)[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[construct-binary-search-tree-from-preorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1008-construct-binary-search-tree-from-preorder-traversal.py)|Medium
+|(binary search)[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[cousins-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/993-cousins-in-binary-tree.py)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
