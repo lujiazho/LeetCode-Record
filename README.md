@@ -117,6 +117,7 @@ A record for coding practice on leetcode
 |[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/929-unique-email-addresses.py)|Easy
 |[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[split-linked-list-in-parts](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/725-split-linked-list-in-parts.py)|Medium
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[next-greater-element-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/496-next-greater-element-i.py)|Easy
+|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.py)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
