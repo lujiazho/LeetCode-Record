@@ -119,6 +119,7 @@ A record for coding practice on leetcode
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[next-greater-element-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/496-next-greater-element-i.py)|Easy
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.py)|Medium
 |[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.py)|Medium
+|[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
