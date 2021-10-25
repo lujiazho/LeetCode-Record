@@ -43,6 +43,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |(double stack)[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[basic-calculator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/224-basic-calculator.py)|Hard
+|[155. Min Stack](https://leetcode.com/problems/min-stack/)|[min-stack](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/155-min-stack.py)|Easy
 
 #### 3 Heap Optimization
 
