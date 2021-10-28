@@ -129,6 +129,7 @@ A record for coding practice on leetcode
 |[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.py)|Medium
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)|Medium
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[invert-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/226-invert-binary-tree.py)|Easy
+|[15. 3Sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
