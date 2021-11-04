@@ -12,6 +12,7 @@ A record for coding practice on leetcode
 |(binary search)[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[construct-binary-search-tree-from-preorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1008-construct-binary-search-tree-from-preorder-traversal.py)|Medium
 |(binary search)[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[cousins-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/993-cousins-in-binary-tree.py)|Easy
 |(complete binary search)[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[count-complete-tree-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/222-count-complete-tree-nodes.py)|Medium
+|(traversal)[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[sum-of-left-leaves](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/404-sum-of-left-leaves.py)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
