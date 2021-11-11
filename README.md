@@ -146,6 +146,7 @@ A record for coding practice on leetcode
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)|Medium
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[invert-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/226-invert-binary-tree.py)|Easy
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)|Medium
+|[1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[minimum-value-to-get-positive-step-by-step-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1413-minimum-value-to-get-positive-step-by-step-sum.py)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
