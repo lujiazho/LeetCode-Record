@@ -147,6 +147,7 @@ A record for coding practice on leetcode
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[invert-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/226-invert-binary-tree.py)|Easy
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)|Medium
 |[1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[minimum-value-to-get-positive-step-by-step-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1413-minimum-value-to-get-positive-step-by-step-sum.py)|Easy
+|[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/203-remove-linked-list-elements.py)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
