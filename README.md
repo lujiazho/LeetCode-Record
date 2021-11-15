@@ -123,6 +123,7 @@ A record for coding practice on leetcode
 |[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[distinct-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/115-distinct-subsequences.py)|Hard
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[perfect-squares](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/279-perfect-squares.py)|Medium
 |[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/309-best-time-to-buy-and-sell-stock-with-cooldown.py)|Medium
+|[368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[largest-divisible-subset](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/368-largest-divisible-subset.py)|Medium
 
 #### 4 Digital Statistics DP(not precise probably
 
