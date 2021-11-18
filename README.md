@@ -15,6 +15,7 @@ A record for coding practice on leetcode
 |(traversal)[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[sum-of-left-leaves](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/404-sum-of-left-leaves.py)|Easy
 |(binary search)[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/441-arranging-coins.py)|Easy
 |(bitmask)[1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1286-iterator-for-combination.py)|Medium
+|(In-place modification)[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/448-find-all-numbers-disappeared-in-an-array.py)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
