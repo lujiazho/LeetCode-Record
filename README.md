@@ -47,6 +47,11 @@ A record for coding practice on leetcode
 |---|---|---
 |[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiply-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/43-multiply-strings.py)|Medium
 
+#### 6 Bit Operation
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)|Easy
+
 ### Ⅱ Data Structure
 #### 1 Heap
 
