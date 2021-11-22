@@ -17,6 +17,7 @@ A record for coding practice on leetcode
 |(bitmask)[1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1286-iterator-for-combination.py)|Medium
 |(In-place modification)[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/448-find-all-numbers-disappeared-in-an-array.py)|Easy
 |(binary search)[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/106-construct-binary-tree-from-inorder-and-postorder-traversal.py)|Medium
+|(binary search tree)[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[delete-node-in-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/450-delete-node-in-a-bst.py)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
