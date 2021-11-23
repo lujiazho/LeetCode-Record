@@ -82,6 +82,11 @@ A record for coding practice on leetcode
 |[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[word-search-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/212-word-search-ii.py)|Hard
 |[1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[number-of-valid-words-for-each-puzzle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1178-number-of-valid-words-for-each-puzzle.py)|Hard
 
+#### 6 Disjoint Set Union
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[largest-component-size-by-common-factor](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/952-largest-component-size-by-common-factor.py)|Hard
+
 ### Ⅲ Search and Graph theory
 #### 1 DFS
 |leetcode题目|Python代码|难度|
