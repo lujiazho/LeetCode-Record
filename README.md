@@ -55,6 +55,11 @@ A record for coding practice on leetcode
 |---|---|---
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)|Easy
 
+#### 7 Intervals Merge
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[interval-list-intersections](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/986-interval-list-intersections.py)|Medium
+
 ### Ⅱ Data Structure
 #### 1 Heap
 
