@@ -18,6 +18,7 @@ A record for coding practice on leetcode
 |(In-place modification)[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/448-find-all-numbers-disappeared-in-an-array.py)|Easy
 |(binary search)[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/106-construct-binary-tree-from-inorder-and-postorder-traversal.py)|Medium
 |(binary search tree)[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[delete-node-in-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/450-delete-node-in-a-bst.py)|Medium
+|(binary search)[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/35-search-insert-position.py)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
