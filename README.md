@@ -19,6 +19,7 @@ A record for coding practice on leetcode
 |(binary search)[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/106-construct-binary-tree-from-inorder-and-postorder-traversal.py)|Medium
 |(binary search tree)[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[delete-node-in-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/450-delete-node-in-a-bst.py)|Medium
 |(binary search)[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/35-search-insert-position.py)|Easy
+|(pre&suf product)[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[product-of-array-except-self](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/238-product-of-array-except-self.py)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
