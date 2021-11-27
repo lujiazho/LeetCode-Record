@@ -93,6 +93,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[largest-component-size-by-common-factor](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/952-largest-component-size-by-common-factor.py)|Hard
+|(DSUorDFS)[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.py)|Medium
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
