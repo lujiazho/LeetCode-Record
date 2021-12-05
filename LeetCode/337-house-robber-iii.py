@@ -86,3 +86,10 @@ class Solution:
             right = dfs(node.right)
             return (max(left)+max(right), left[0]+right[0]+node.val)
         return max(dfs(root)) # two returns: 1 reps rob this node, 0 reps not rob
+    
+    
+# this really teach me something:
+# 1 I should make dfs as easy as possible, the best is not pass any parameter, making its function easy, such as this problem: rob
+# 2 because i pass 0 and 1 to differentiate the rob and not rob, making my dfs much more complex, so I cannot cache it or store it in class
+# 3 and I don't need to pass current money into next level, this could make dfs easier
+# 4 just make dfs return two parameters, the first reps when not robbed, the second reps when robbed
