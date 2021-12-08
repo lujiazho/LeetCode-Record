@@ -116,6 +116,7 @@ A record for coding practice on leetcode
 |[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[sum-root-to-leaf-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/129-sum-root-to-leaf-numbers.py)|Medium
 |[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[all-paths-from-source-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/797-all-paths-from-source-to-target.py)|Medium
 |(extreme small dfs)[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|[house-robber-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/337-house-robber-iii.py)|Medium
+|[563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[binary-tree-tilt](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/563-binary-tree-tilt.py)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|难度|
