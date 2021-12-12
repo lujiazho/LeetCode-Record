@@ -118,6 +118,7 @@ A record for coding practice on leetcode
 |(extreme small dfs)[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|[house-robber-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/337-house-robber-iii.py)|Medium
 |[563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[binary-tree-tilt](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/563-binary-tree-tilt.py)|Easy
 |[1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[jump-game-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1306-jump-game-iii.py)|Medium
+|(DPorDFS+memorization)[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[partition-equal-subset-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/416-partition-equal-subset-sum.py)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|难度|
