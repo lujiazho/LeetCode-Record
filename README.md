@@ -193,6 +193,7 @@ A record for coding practice on leetcode
 |[1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[minimum-cost-to-move-chips-to-the-same-position](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1217-minimum-cost-to-move-chips-to-the-same-position.py)|Easy
 |[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1290-convert-binary-number-in-a-linked-list-to-integer.py)|Easy
 |[1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[consecutive-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1446-consecutive-characters.py)|Easy
+|[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[insertion-sort-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/147-insertion-sort-list.py)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
