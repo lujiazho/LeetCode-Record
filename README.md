@@ -125,6 +125,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.py)|Hard
+|[310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[minimum-height-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/310-minimum-height-trees.py)|Medium
 
 #### 3 Topological Sorting
 
