@@ -167,6 +167,7 @@ A record for coding practice on leetcode
 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[unique-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/62-unique-paths.py)|Medium
 
 #### 4 Digital Statistics DP(not precise probably
+|[902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[numbers-at-most-n-given-digit-set](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/902-numbers-at-most-n-given-digit-set.py)|Hard
 
 #### 5 State Compression DP
 
