@@ -198,6 +198,7 @@ A record for coding practice on leetcode
 |[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[convert-binary-number-in-a-linked-list-to-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1290-convert-binary-number-in-a-linked-list-to-integer.py)|Easy
 |[1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[consecutive-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1446-consecutive-characters.py)|Easy
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[insertion-sort-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/147-insertion-sort-list.py)|Medium
+|[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[minimum-absolute-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1200-minimum-absolute-difference.py)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
