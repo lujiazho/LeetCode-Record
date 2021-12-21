@@ -21,6 +21,7 @@ A record for coding practice on leetcode
 |(binary search)[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/35-search-insert-position.py)|Easy
 |(pre&suf product)[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[product-of-array-except-self](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/238-product-of-array-except-self.py)|Medium
 |(quick sort)[148. Sort List](https://leetcode.com/problems/sort-list/)|[sort-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/148-sort-list.py)|Medium
+|(lowbit)[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[power-of-two](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/231-power-of-two.py)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|难度|
