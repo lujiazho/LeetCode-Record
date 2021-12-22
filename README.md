@@ -200,6 +200,7 @@ A record for coding practice on leetcode
 |[1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[consecutive-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1446-consecutive-characters.py)|Easy
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[insertion-sort-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/147-insertion-sort-list.py)|Medium
 |[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[minimum-absolute-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1200-minimum-absolute-difference.py)|Easy
+|[143. Reorder List](https://leetcode.com/problems/reorder-list/)|[reorder-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/143-reorder-list.py)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
