@@ -131,6 +131,9 @@ A record for coding practice on leetcode
 |[310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[minimum-height-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/310-minimum-height-trees.py)|Medium
 
 #### 3 Topological Sorting
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[course-schedule-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/210-course-schedule-ii.py)|Medium
 
 #### 4 Shortest Path
 |leetcode题目|Python代码|难度|
