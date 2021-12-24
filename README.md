@@ -66,6 +66,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[interval-list-intersections](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/986-interval-list-intersections.py)|Medium
+|[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/56-merge-intervals.py)|Medium
 
 ### Ⅱ Data Structure
 #### 1 Heap
