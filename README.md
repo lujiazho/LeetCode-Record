@@ -90,6 +90,7 @@ A record for coding practice on leetcode
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[intersection-of-two-arrays-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/350-intersection-of-two-arrays-ii.py)|Easy
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[find-all-duplicates-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/442-find-all-duplicates-in-an-array.py)|Medium
 |(binary_search+hash)[1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[longest-duplicate-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1044-longest-duplicate-substring.py)|Hard
+|[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/973-k-closest-points-to-origin.py)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|难度|
