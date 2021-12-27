@@ -207,6 +207,7 @@ A record for coding practice on leetcode
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[insertion-sort-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/147-insertion-sort-list.py)|Medium
 |[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[minimum-absolute-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1200-minimum-absolute-difference.py)|Easy
 |[143. Reorder List](https://leetcode.com/problems/reorder-list/)|[reorder-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/143-reorder-list.py)|Medium
+|[476. Number Complement](https://leetcode.com/problems/number-complement/)|[number-complement](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/476-number-complement.py)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|难度|
