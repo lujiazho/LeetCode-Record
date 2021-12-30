@@ -219,3 +219,4 @@ A record for coding practice on leetcode
 |[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[bitwise-and-of-numbers-range](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/201-bitwise-and-of-numbers-range.py)|Medium
 |(heap_optim or math)[260. Single Number III](https://leetcode.com/problems/single-number-iii/)|[single-number-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/260-single-number-iii.py)|Medium
 |[878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[nth-magical-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/878-nth-magical-number.py)|Hard
+|[1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[smallest-integer-divisible-by-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1015-smallest-integer-divisible-by-k.py)|Medium
