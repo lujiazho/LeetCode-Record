@@ -127,6 +127,7 @@ A record for coding practice on leetcode
 |[1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[jump-game-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1306-jump-game-iii.py)|Medium
 |(DPorDFS+memorization)[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[partition-equal-subset-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/416-partition-equal-subset-sum.py)|Medium
 |[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[range-sum-of-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/938-range-sum-of-bst.py)|Easy
+|[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[maximum-difference-between-node-and-ancestor](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1026-maximum-difference-between-node-and-ancestor.py)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|难度|
