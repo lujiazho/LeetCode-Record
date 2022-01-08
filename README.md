@@ -131,6 +131,7 @@ A record for coding practice on leetcode
 |[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[range-sum-of-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/938-range-sum-of-bst.py)||Easy
 |[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[maximum-difference-between-node-and-ancestor](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1026-maximum-difference-between-node-and-ancestor.py)||Medium
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)||[palindrome-partitioning](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/131-palindrome-partitioning.cpp)|Medium
+|[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)||[cherry-pickup-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1463-cherry-pickup-ii.cpp)|Hard
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
