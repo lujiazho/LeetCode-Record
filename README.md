@@ -45,6 +45,7 @@ A record for coding practice on leetcode
 |---|---|---|---
 |[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[spiral-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/54-spiral-matrix.py)||Medium
 |[1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[find-winner-on-a-tic-tac-toe-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1275-find-winner-on-a-tic-tac-toe-game.py)||Easy
+|[1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)||[robot-bounded-in-circle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1041-robot-bounded-in-circle.cpp)|Medium
 
 #### 4 Binary Search(Not that simple)
 |leetcode题目|Python代码|C++代码|难度|
