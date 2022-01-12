@@ -23,6 +23,7 @@ A record for coding practice on leetcode
 |(quick sort)[148. Sort List](https://leetcode.com/problems/sort-list/)|[sort-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/148-sort-list.py)||Medium
 |(lowbit)[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[power-of-two](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/231-power-of-two.py)||Easy
 |(prefix sum)[1094. Car Pooling](https://leetcode.com/problems/car-pooling/)||[car-pooling](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1094-car-pooling.cpp)|Medium
+|(binary search tree)[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)||[insert-into-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/701-insert-into-a-binary-search-tree.cpp)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
