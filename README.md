@@ -197,6 +197,9 @@ A record for coding practice on leetcode
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[burst-balloons](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/312-burst-balloons.py)||Hard
 
 ### Ⅵ Greedy Algorithm
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
+|[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[minimum-number-of-arrows-to-burst-balloons](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/452-minimum-number-of-arrows-to-burst-balloons.py)||Medium
 
 ### Ⅶ No Classification
 |leetcode题目|Python代码|C++代码|难度|
