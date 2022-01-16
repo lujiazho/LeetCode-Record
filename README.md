@@ -226,6 +226,7 @@ A record for coding practice on leetcode
 |[143. Reorder List](https://leetcode.com/problems/reorder-list/)|[reorder-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/143-reorder-list.py)||Medium
 |[476. Number Complement](https://leetcode.com/problems/number-complement/)|[number-complement](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/476-number-complement.py)||Easy
 |[1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[complement-of-base-10-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1009-complement-of-base-10-integer.py)||Easy
+|[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[maximize-distance-to-closest-person](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/849-maximize-distance-to-closest-person.py)||Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
