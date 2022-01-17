@@ -98,6 +98,7 @@ A record for coding practice on leetcode
 |(binary_search+hash)[1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[longest-duplicate-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1044-longest-duplicate-substring.py)||Hard
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[k-closest-points-to-origin](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/973-k-closest-points-to-origin.py)||Medium
 |[1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1010-pairs-of-songs-with-total-durations-divisible-by-60.py)||Medium
+|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)||[word-pattern](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/290-word-pattern.cpp)|Easy
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
