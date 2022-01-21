@@ -46,3 +46,27 @@ public:
         return -1;
     }
 };
+
+// this is a theoretical O(n) time complexity, but the actual time is not really better than the one above
+class Solution {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
+        int sum_diff = 0;
+        int cur_idx = -1;
+        int cur_sum = 0;
+        for (int i=0 ; i<gas.size() ; i++){
+            int di = gas[i]-cost[i];
+            sum_diff += di;
+            if ((cur_sum + di) < 0){ // only when acc < 0, we restart
+                cur_idx = -1;
+                cur_sum = 0;
+            }
+            else{
+                if (cur_idx == -1) cur_idx = i;
+                cur_sum += di;
+            }
+        }
+        if (sum_diff < 0) return -1; // if this < 0, we can never travel around
+        return cur_idx;
+    }
+};
