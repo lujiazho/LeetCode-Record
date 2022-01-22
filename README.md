@@ -140,6 +140,7 @@ A record for coding practice on leetcode
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)||[palindrome-partitioning](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/131-palindrome-partitioning.cpp)|Medium
 |[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)||[cherry-pickup-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1463-cherry-pickup-ii.cpp)|Hard
 |[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)||[sum-of-root-to-leaf-binary-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1022-sum-of-root-to-leaf-binary-numbers.cpp)|Easy
+|[1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)||[stone-game-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1510-stone-game-iv.cpp)|Hard
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
