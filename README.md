@@ -192,7 +192,10 @@ A record for coding practice on leetcode
 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[unique-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/62-unique-paths.py)||Medium
 
 #### 4 Digital Statistics DP(not precise probably
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
 |[902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[numbers-at-most-n-given-digit-set](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/902-numbers-at-most-n-given-digit-set.py)||Hard
+|[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)||[sequential-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1291-sequential-digits.cpp)|Medium
 
 #### 5 State Compression DP
 
