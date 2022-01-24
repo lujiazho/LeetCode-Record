@@ -236,6 +236,7 @@ A record for coding practice on leetcode
 |[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)||[maximize-distance-to-closest-person](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/849-maximize-distance-to-closest-person.cpp)|Medium
 |[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)||[can-place-flowers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/605-can-place-flowers.cpp)|Easy
 |[134. Gas Station](https://leetcode.com/problems/gas-station/)||[gas-station](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/134-gas-station.cpp)|Medium
+|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)||[detect-capital](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/520-detect-capital.cpp)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
