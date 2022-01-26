@@ -77,6 +77,9 @@ A record for coding practice on leetcode
 
 ### Ⅱ Data Structure
 #### 1 Heap
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
+|[1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)||[all-elements-in-two-binary-search-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1305-all-elements-in-two-binary-search-trees.cpp)|Medium
 
 #### 2 Stack
 |leetcode题目|Python代码|C++代码|难度|
