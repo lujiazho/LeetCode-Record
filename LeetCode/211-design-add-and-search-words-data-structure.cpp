@@ -1,30 +1,30 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// this problem is hard to solve by trie, it's better to compare from high bit to low bit
-// Besides, we need to utilize the property of XOR, which is x^y = z <-> y = z^x
+// it's hard to implement original trie on leetcode with c++, so here is another kind of trie
 ////////////////
-// Time Complexity: O(31*n)
+// Time Complexity: O(n), the estimated time complexity is larger than that of original trie
 // Space Complexity: O(n)
 ///////////////////////////////////////////////////////////////////////////////////////////////
-class Solution {
+class WordDictionary {
+    unordered_map<int, vector<string>> m;
 public:
-    int findMaximumXOR(vector<int>& nums) {
-        int res = 0;
-        for (int i=30 ; i>=0 ; i--){
-            unordered_set<int> set;
-            for (int j=0 ; j<nums.size() ; j++){
-                set.insert(nums[j] >> i);
-            }
-            res = res*2 + 1;
-            int flag = 0;
-            for (int j=0 ; j<nums.size() ; j++){
-                auto get = set.find(res ^ (nums[j]>>i));
-                if (get != set.end()){
-                    flag = 1;
+    WordDictionary() {}
+    
+    void addWord(string word) {
+        m[word.length()].push_back(word);
+    }
+    
+    bool search(string word) {
+        for (auto per:m[word.length()]){
+            int flag = 1;
+            for (int j=0 ; j<word.length() ; j++){
+                if (word[j] == '.') continue;
+                if (word[j] != per[j]){
+                    flag = 0;
                     break;
                 }
             }
-            if (!flag) res -= 1;
+            if (flag) return true;
         }
-        return res;
+        return false;
     }
 };
