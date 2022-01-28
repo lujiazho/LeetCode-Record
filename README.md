@@ -112,6 +112,7 @@ A record for coding practice on leetcode
 |[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[word-search-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/212-word-search-ii.py)||Hard
 |[1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[number-of-valid-words-for-each-puzzle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1178-number-of-valid-words-for-each-puzzle.py)||Hard
 |[1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[stream-of-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1032-stream-of-characters.py)||Hard
+|(trie of c++ version)[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)||[design-add-and-search-words-data-structure](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/211-design-add-and-search-words-data-structure.cpp)|Medium
 
 #### 6 Disjoint Set Union
 |leetcode题目|Python代码|C++代码|难度|
