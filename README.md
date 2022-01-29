@@ -90,6 +90,7 @@ A record for coding practice on leetcode
 |(monotonic stack)[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[maximal-rectangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/85-maximal-rectangle.py)||Hard
 |(double Stack)[394. Decode String](https://leetcode.com/problems/decode-string/)|[decode-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/394-decode-string.py)||Medium
 |(double Stack)[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[basic-calculator-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/227-basic-calculator-ii.py)||Medium
+|(monotonic stack)[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)||[largest-rectangle-in-histogram](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/84-largest-rectangle-in-histogram.cpp)|Hard
 
 #### 3 Heap Optimization
 
