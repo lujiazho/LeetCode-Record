@@ -243,6 +243,7 @@ A record for coding practice on leetcode
 |[134. Gas Station](https://leetcode.com/problems/gas-station/)||[gas-station](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/134-gas-station.cpp)|Medium
 |[520. Detect Capital](https://leetcode.com/problems/detect-capital/)||[detect-capital](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/520-detect-capital.cpp)|Easy
 |[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)||[valid-mountain-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/941-valid-mountain-array.cpp)|Easy
+|[189. Rotate Array](https://leetcode.com/problems/rotate-array/)||[rotate-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/189-rotate-array.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
