@@ -244,6 +244,7 @@ A record for coding practice on leetcode
 |[520. Detect Capital](https://leetcode.com/problems/detect-capital/)||[detect-capital](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/520-detect-capital.cpp)|Easy
 |[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)||[valid-mountain-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/941-valid-mountain-array.cpp)|Easy
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)||[rotate-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/189-rotate-array.cpp)|Medium
+|[1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)||[richest-customer-wealth](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1672-richest-customer-wealth.cpp)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
