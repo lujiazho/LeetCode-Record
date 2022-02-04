@@ -1,40 +1,26 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// time limit exceed
+// not so easy
 ////////////////
-// Time Complexity: O(n^3)
-// Space Complexity: O(n^3)
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 ///////////////////////////////////////////////////////////////////////////////////////////////
 class Solution {
 public:
-    int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4) {
-        unordered_map<int, int> s;
-        for (int i=0 ; i<nums1.size() ; i++)
-            for (int j=0 ; j<nums2.size() ; j++)
-                for (int k=0 ; k<nums3.size() ; k++)
-                    s[nums1[i]+nums2[j]+nums3[k]] += 1;
-        int res = 0;
-        for (int l=0 ; l<nums4.size() ; l++){
-            auto get = s.find(-nums4[l]);
-            if (get != s.end()) res += s[-nums4[l]];
+    int findMaxLength(vector<int>& nums) {
+        int zero_one[nums.size()+1];
+        zero_one[0] = 0;
+        zero_one[1] = nums[0]==1?1:-1;
+        unordered_map<int, int> m;
+        m.insert(pair<int,int>(0,0));
+        m.insert(pair<int,int>(zero_one[1],1));
+        for (int i=2 ; i<nums.size()+1 ; i++){
+            zero_one[i] = zero_one[i-1] + (nums[i-1]==1?1:-1);
+            auto get = m.find(zero_one[i]);
+            if (get == m.end()) m[zero_one[i]] = i; // store the loc
         }
-        return res;
-    }
-};
-
-// change to two 2-level loops
-class Solution {
-public:
-    int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4) {
-        unordered_map<int, int> s;
-        for (int i=0 ; i<nums1.size() ; i++)
-            for (int j=0 ; j<nums2.size() ; j++)
-                s[nums1[i]+nums2[j]] += 1;
         int res = 0;
-        for (int l=0 ; l<nums4.size() ; l++){
-            for (int k=0 ; k<nums3.size() ; k++){
-                auto get = s.find(-nums4[l]-nums3[k]);
-                if (get != s.end()) res += s[-nums4[l]-nums3[k]];
-            }
+        for (int i=1 ; i<nums.size()+1 ; i++){
+            res = max(res, i - m[zero_one[i]]);
         }
         return res;
     }
