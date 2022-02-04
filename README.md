@@ -106,6 +106,7 @@ A record for coding practice on leetcode
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)||[word-pattern](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/290-word-pattern.cpp)|Easy
 |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||[linked-list-cycle-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/142-linked-list-cycle-ii.cpp)|Medium
 |[454. 4Sum II](https://leetcode.com/problems/4sum-ii/)||[4sum-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/454-4sum-ii.cpp)|Medium
+|[525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)||[contiguous-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/525-contiguous-array.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
