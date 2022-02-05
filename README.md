@@ -80,6 +80,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)||[all-elements-in-two-binary-search-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1305-all-elements-in-two-binary-search-trees.cpp)|Medium
+|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||[merge-k-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/23-merge-k-sorted-lists.cpp)|Hard
 
 #### 2 Stack
 |leetcode题目|Python代码|C++代码|难度|
