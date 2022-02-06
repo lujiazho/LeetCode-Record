@@ -250,6 +250,7 @@ A record for coding practice on leetcode
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)||[rotate-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/189-rotate-array.cpp)|Medium
 |[1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)||[richest-customer-wealth](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1672-richest-customer-wealth.cpp)|Easy
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)||[find-all-anagrams-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/438-find-all-anagrams-in-a-string.cpp)|Medium
+|[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||[remove-duplicates-from-sorted-array-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/80-remove-duplicates-from-sorted-array-ii.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
