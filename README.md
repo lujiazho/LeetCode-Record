@@ -109,6 +109,7 @@ A record for coding practice on leetcode
 |[454. 4Sum II](https://leetcode.com/problems/4sum-ii/)||[4sum-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/454-4sum-ii.cpp)|Medium
 |[525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)||[contiguous-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/525-contiguous-array.cpp)|Medium
 |[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)||[find-the-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/389-find-the-difference.cpp)|Easy
+|[532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)||[k-diff-pairs-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/532-k-diff-pairs-in-an-array.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
