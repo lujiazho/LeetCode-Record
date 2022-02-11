@@ -111,6 +111,7 @@ A record for coding practice on leetcode
 |[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)||[find-the-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/389-find-the-difference.cpp)|Easy
 |[532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)||[k-diff-pairs-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/532-k-diff-pairs-in-an-array.cpp)|Medium
 |[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)||[subarray-sum-equals-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/560-subarray-sum-equals-k.cpp)|Medium
+|[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)||[permutation-in-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/567-permutation-in-string.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
