@@ -154,6 +154,7 @@ A record for coding practice on leetcode
 |[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)||[sum-of-root-to-leaf-binary-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1022-sum-of-root-to-leaf-binary-numbers.cpp)|Easy
 |[1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)||[stone-game-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1510-stone-game-iv.cpp)|Hard
 |[78. Subsets](https://leetcode.com/problems/subsets/)||[subsets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/78-subsets.cpp)|Medium
+|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||[maximum-depth-of-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/104-maximum-depth-of-binary-tree.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
