@@ -68,6 +68,7 @@ A record for coding practice on leetcode
 |---|---|---|---
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)||Easy
 |[67. Add Binary](https://leetcode.com/problems/add-binary/)||[add-binary](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/67-add-binary.cpp)|Easy
+|[136. Single Number](https://leetcode.com/problems/single-number/)||[single-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/136-single-number.cpp)|Easy
 
 #### 7 Intervals Merge
 |leetcode题目|Python代码|C++代码|难度|
