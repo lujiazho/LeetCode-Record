@@ -94,7 +94,7 @@ A record for coding practice on leetcode
 |(double Stack)[394. Decode String](https://leetcode.com/problems/decode-string/)|[decode-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/394-decode-string.py)||Medium
 |(double Stack)[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[basic-calculator-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/227-basic-calculator-ii.py)||Medium
 |(monotonic stack)[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)||[largest-rectangle-in-histogram](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/84-largest-rectangle-in-histogram.cpp)|Hard
-|(Monotonic Stack)[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[remove-k-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/402-remove-k-digits.py)||Medium
+|(Monotonic Stack)[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)||[remove-k-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/402-remove-k-digits.cpp)|Medium
 
 #### 3 Heap Optimization
 
