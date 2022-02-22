@@ -266,6 +266,7 @@ A record for coding practice on leetcode
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)||[find-all-anagrams-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/438-find-all-anagrams-in-a-string.cpp)|Medium
 |[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||[remove-duplicates-from-sorted-array-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/80-remove-duplicates-from-sorted-array-ii.cpp)|Medium
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)||[add-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/258-add-digits.cpp)|Easy
+|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)||[excel-sheet-column-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/171-excel-sheet-column-number.cpp)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
