@@ -1,42 +1,23 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// a liitle hard because the time complexity is sky high and we need to use bfs and bit mask
+// not so hard, the only trick is that I have to use long long
 ////////////////
-// Time Complexity: O(n*(2^n)), for each point, it has 2^n states
-// Space Complexity: O(n*(2^n))
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 ///////////////////////////////////////////////////////////////////////////////////////////////
 class Solution {
 public:
-    
-    int shortestPathLength(vector<vector<int>>& graph) {
-        int n = graph.size(); // num of points
-        int mask = (1<<n)-1; // bit masking
-        vector<pair<int, int>> v; // for bfs <point, mask>
-        unordered_set<string> s;
-        for (int i=0 ; i<graph.size() ; i++){
-            v.push_back(pair<int, int>(i, (1<<i)));
-            s.insert(to_string(i)+" "+to_string(1<<i));
-        }
-        int res = 0;
+    int widthOfBinaryTree(TreeNode* root) {
+        vector<pair<TreeNode*, long long>> v; // node:idx
+        v.push_back(pair<TreeNode*, long long>(root, 0));
+        long long res = 0;
         while (v.size()){
-            vector<pair<int, int>> new_v;
+            res = max(res, (v[v.size()-1].second-v[0].second+1));
+            vector<pair<TreeNode*, long long>> newv;
             for (int i=0 ; i<v.size() ; i++){
-                int cur_point = v[i].first;
-                int cur_mask = v[i].second;
-                if (cur_mask == mask){
-                    return res;
-                }
-                for (int j=0 ; j<graph[cur_point].size() ; j++){
-                    int nex = graph[cur_point][j];
-                    int nex_mask = cur_mask | (1<<nex);
-                    string hash = to_string(nex)+" "+to_string(nex_mask);
-                    if (s.find(hash) == s.end()){
-                        new_v.push_back(pair<int,int>(nex, nex_mask));
-                        s.insert(hash);
-                    }
-                }
+                if (v[i].first->left) newv.push_back(pair<TreeNode*, long long>(v[i].first->left, (v[i].second-v[0].second)*2+1));
+                if (v[i].first->right) newv.push_back(pair<TreeNode*, long long>(v[i].first->right, (v[i].second-v[0].second)*2+2));
             }
-            v = new_v;
-            res += 1;
+            v = newv;
         }
         return res;
     }
