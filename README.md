@@ -173,6 +173,7 @@ A record for coding practice on leetcode
 |[1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)||[jump-game-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1345-jump-game-iv.cpp)|Hard
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)||[word-ladder](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/127-word-ladder.cpp)|Hard
 |[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)||[shortest-path-visiting-all-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/847-shortest-path-visiting-all-nodes.cpp)|Hard
+|[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)||[maximum-width-of-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/662-maximum-width-of-binary-tree.cpp)|Medium
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
