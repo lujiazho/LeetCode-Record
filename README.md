@@ -206,6 +206,7 @@ A record for coding practice on leetcode
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maximum-product-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/152-maximum-product-subarray.py)||Medium
 |(hard)[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[domino-and-tromino-tiling](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/790-domino-and-tromino-tiling.py)||Medium
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||[best-time-to-buy-and-sell-stock](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/121-best-time-to-buy-and-sell-stock.cpp)|Easy
+|[799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[champagne-tower](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/799-champagne-tower.py)||Medium
 
 #### 2 Interval DP
 
