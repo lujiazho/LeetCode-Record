@@ -1,0 +1,14 @@
+///////////////////////////////////////////////////////////////////////////////////////////////
+// not easy, but I at least actually has the idea to use recursion
+////////////////
+// Time Complexity: O(n)
+// Space Complexity: O(logn)
+///////////////////////////////////////////////////////////////////////////////////////////////
+class Solution {
+public:
+    int mod = 7+1e9;
+    int countOrders(int n) {
+        if (n == 1) return 1;
+        return (((long long)countOrders(n-1)*(n*(2*n-1))))%mod;
+    }
+};
