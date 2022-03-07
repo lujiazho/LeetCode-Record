@@ -44,6 +44,7 @@ A record for coding practice on leetcode
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||[longest-substring-without-repeating-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/3-longest-substring-without-repeating-characters.cpp)|Medium
 |[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)||[swap-nodes-in-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/24-swap-nodes-in-pairs.cpp)|Medium
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)||[arithmetic-slices](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/413-arithmetic-slices.cpp)|Medium
+|(merge sort)[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.cpp)|Easy
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
