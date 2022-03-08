@@ -45,6 +45,7 @@ A record for coding practice on leetcode
 |[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)||[swap-nodes-in-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/24-swap-nodes-in-pairs.cpp)|Medium
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)||[arithmetic-slices](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/413-arithmetic-slices.cpp)|Medium
 |(merge sort)[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.cpp)|Easy
+|(fast&slow)[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)||[linked-list-cycle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/141-linked-list-cycle.cpp)|Easy
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
