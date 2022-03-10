@@ -281,6 +281,7 @@ A record for coding practice on leetcode
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)||[summary-ranges](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/228-summary-ranges.cpp)|Easy
 |[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)||[is-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/392-is-subsequence.cpp)|Easy
 |[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)||[remove-duplicates-from-sorted-list-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/82-remove-duplicates-from-sorted-list-ii.cpp)|Medium
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)||[add-two-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2-add-two-numbers.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
