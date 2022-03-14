@@ -285,6 +285,7 @@ A record for coding practice on leetcode
 |[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)||[add-two-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2-add-two-numbers.cpp)|Medium
 |[61. Rotate List](https://leetcode.com/problems/rotate-list/)||[rotate-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/61-rotate-list.cpp)|Medium
 |[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)||[copy-list-with-random-pointer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/138-copy-list-with-random-pointer.cpp)|Medium
+|[71. Simplify Path](https://leetcode.com/problems/simplify-path/)||[simplify-path](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/71-simplify-path.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
