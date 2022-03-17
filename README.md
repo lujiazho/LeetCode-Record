@@ -103,6 +103,7 @@ A record for coding practice on leetcode
 |(Monotonic Stack)[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)||[remove-k-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/402-remove-k-digits.cpp)|Medium
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)||[valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/20-valid-parentheses.cpp)|Easy
 |[1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)||[minimum-remove-to-make-valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1249-minimum-remove-to-make-valid-parentheses.cpp)|Medium
+|[856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)||[score-of-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/856-score-of-parentheses.cpp)|Medium
 
 #### 3 Heap Optimization
 
