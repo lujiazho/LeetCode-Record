@@ -104,6 +104,7 @@ A record for coding practice on leetcode
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)||[valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/20-valid-parentheses.cpp)|Easy
 |[1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)||[minimum-remove-to-make-valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1249-minimum-remove-to-make-valid-parentheses.cpp)|Medium
 |[856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)||[score-of-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/856-score-of-parentheses.cpp)|Medium
+|[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)||[remove-duplicate-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/316-remove-duplicate-letters.cpp)|Medium
 
 #### 3 Heap Optimization
 
