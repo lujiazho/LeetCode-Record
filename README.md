@@ -293,6 +293,7 @@ A record for coding practice on leetcode
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path/)||[simplify-path](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/71-simplify-path.cpp)|Medium
 |[1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)||[minimum-domino-rotations-for-equal-row](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1007-minimum-domino-rotations-for-equal-row.cpp)|Medium
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)||[partition-labels](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/763-partition-labels.cpp)|Medium
+|[1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)||[smallest-string-with-a-given-numeric-value](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1663-smallest-string-with-a-given-numeric-value.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
