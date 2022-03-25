@@ -249,6 +249,7 @@ A record for coding practice on leetcode
 |---|---|---|---
 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)||[minimum-number-of-arrows-to-burst-balloons](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/452-minimum-number-of-arrows-to-burst-balloons.cpp)|Medium
 |[881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)||[boats-to-save-people](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/881-boats-to-save-people.cpp)|Medium
+|[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)||[two-city-scheduling](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1029-two-city-scheduling.cpp)|Medium
 
 ### Ⅶ No Classification
 |leetcode题目|Python代码|C++代码|难度|
