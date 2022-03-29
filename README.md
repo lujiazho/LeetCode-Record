@@ -300,6 +300,7 @@ A record for coding practice on leetcode
 |[1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)||[smallest-string-with-a-given-numeric-value](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1663-smallest-string-with-a-given-numeric-value.cpp)|Medium
 |[991. Broken Calculator](https://leetcode.com/problems/broken-calculator/)||[broken-calculator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/991-broken-calculator.cpp)|Medium
 |[1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)||[the-k-weakest-rows-in-a-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1337-the-k-weakest-rows-in-a-matrix.cpp)|Easy
+|[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)||[find-the-duplicate-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/287-find-the-duplicate-number.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
