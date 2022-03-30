@@ -27,6 +27,7 @@ A record for coding practice on leetcode
 |(binary search)[875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)||[koko-eating-bananas](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/875-koko-eating-bananas.cpp)|Medium
 |(binary search)[704. Binary Search](https://leetcode.com/problems/binary-search/)||[binary-search](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/704-binary-search.cpp)|Easy
 |(binary search)[81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)||[search-in-rotated-sorted-array-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/81-search-in-rotated-sorted-array-ii.cpp)|Medium
+|(2-D binary search)[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)||[search-a-2d-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/74-search-a-2d-matrix.cpp)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
