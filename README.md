@@ -318,3 +318,4 @@ A record for coding practice on leetcode
 |(in&out degree)[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[find-the-town-judge](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/997-find-the-town-judge.py)||Easy
 |[382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)||[linked-list-random-node](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/382-linked-list-random-node.cpp)|Medium
 |[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||[maximum-xor-of-two-numbers-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/421-maximum-xor-of-two-numbers-in-an-array.cpp)|Medium
+|[31. Next Permutation](https://leetcode.com/problems/next-permutation/)||[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.cpp)|Medium
