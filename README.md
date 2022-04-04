@@ -50,6 +50,7 @@ A record for coding practice on leetcode
 |(merge sort)[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.cpp)|Easy
 |(fast&slow)[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)||[linked-list-cycle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/141-linked-list-cycle.cpp)|Easy
 |[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)||[validate-stack-sequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/946-validate-stack-sequences.cpp)|Medium
+|[1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)||[swapping-nodes-in-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1721-swapping-nodes-in-a-linked-list.cpp)|Medium
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
