@@ -52,6 +52,7 @@ A record for coding practice on leetcode
 |[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)||[validate-stack-sequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/946-validate-stack-sequences.cpp)|Medium
 |[1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)||[swapping-nodes-in-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1721-swapping-nodes-in-a-linked-list.cpp)|Medium
 |[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||[container-with-most-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/11-container-with-most-water.cpp)|Medium
+|[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)||[3sum-with-multiplicity](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/923-3sum-with-multiplicity.cpp)|Medium
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
