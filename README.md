@@ -97,6 +97,7 @@ A record for coding practice on leetcode
 |[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||[merge-k-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/23-merge-k-sorted-lists.cpp)|Hard
 |[1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)||[minimize-deviation-in-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1675-minimize-deviation-in-array.cpp)|Hard
 |[703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)||[kth-largest-element-in-a-stream](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/703-kth-largest-element-in-a-stream.cpp)|Easy
+|(sort pairs)[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||[top-k-frequent-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/347-top-k-frequent-elements.cpp)|Medium
 
 #### 2 Stack
 |leetcode题目|Python代码|C++代码|难度|
