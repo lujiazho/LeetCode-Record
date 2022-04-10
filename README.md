@@ -311,6 +311,7 @@ A record for coding practice on leetcode
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)||[find-the-duplicate-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/287-find-the-duplicate-number.cpp)|Medium
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)||[reverse-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/344-reverse-string.cpp)|Easy
 |[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||[valid-palindrome-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/680-valid-palindrome-ii.cpp)|Easy
+|[682. Baseball Game](https://leetcode.com/problems/baseball-game/)||[baseball-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/682-baseball-game.cpp)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
