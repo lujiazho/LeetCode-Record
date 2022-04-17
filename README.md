@@ -185,6 +185,7 @@ A record for coding practice on leetcode
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)||[combination-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/39-combination-sum.cpp)|Medium
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph/)||[clone-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/133-clone-graph.cpp)|Medium
 |[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)||[convert-bst-to-greater-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/538-convert-bst-to-greater-tree.cpp)|Medium
+|[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)||[increasing-order-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/897-increasing-order-search-tree.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
