@@ -188,6 +188,7 @@ A record for coding practice on leetcode
 |[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)||[increasing-order-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/897-increasing-order-search-tree.cpp)|Easy
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||[kth-smallest-element-in-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/230-kth-smallest-element-in-a-bst.cpp)|Medium
 |(inorder)[99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)||[recover-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/99-recover-binary-search-tree.cpp)|Medium
+|(inorder)[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)||[binary-search-tree-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/173-binary-search-tree-iterator.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
