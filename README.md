@@ -139,6 +139,7 @@ A record for coding practice on leetcode
 |[1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)||[remove-covered-intervals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1288-remove-covered-intervals.cpp)|Medium
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)||[majority-element](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/169-majority-element.cpp)|Easy
 |[895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)||[maximum-frequency-stack](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/895-maximum-frequency-stack.cpp)|Hard
+|(open addressing)[705. Design HashSet](https://leetcode.com/problems/design-hashset/)||[design-hashset](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/705-design-hashset.cpp)|Easy
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
