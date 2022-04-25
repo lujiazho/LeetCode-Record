@@ -326,6 +326,7 @@ A record for coding practice on leetcode
 |[289. Game of Life](https://leetcode.com/problems/game-of-life/)||[game-of-life](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/289-game-of-life.cpp)|Medium
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)||[search-in-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/700-search-in-a-binary-search-tree.cpp)|Easy
 |[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)||[encode-and-decode-tinyurl](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/535-encode-and-decode-tinyurl.cpp)|Medium
+|[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)||[peeking-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/284-peeking-iterator.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
