@@ -216,10 +216,15 @@ A record for coding practice on leetcode
 |---|---|---|---
 |(Dijkstra or any other)[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[reachable-nodes-in-subdivided-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/882-reachable-nodes-in-subdivided-graph.py)||Hard
 
-#### 4 Minimum Spanning Tree
+#### 5 Minimum Spanning Tree
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)||[min-cost-to-connect-all-points](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1584-min-cost-to-connect-all-points.cpp)|Medium
+
+#### 6 Bipartite Graph
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
+|[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)||[is-graph-bipartite](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/785-is-graph-bipartite.cpp)|Medium
 
 ### Ⅳ Mathematics
 
