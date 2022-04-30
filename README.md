@@ -337,6 +337,7 @@ A record for coding practice on leetcode
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)||[search-in-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/700-search-in-a-binary-search-tree.cpp)|Easy
 |[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)||[encode-and-decode-tinyurl](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/535-encode-and-decode-tinyurl.cpp)|Medium
 |[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)||[peeking-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/284-peeking-iterator.cpp)|Medium
+|[399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)||[evaluate-division](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/399-evaluate-division.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
