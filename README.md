@@ -338,6 +338,7 @@ A record for coding practice on leetcode
 |[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)||[encode-and-decode-tinyurl](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/535-encode-and-decode-tinyurl.cpp)|Medium
 |[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)||[peeking-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/284-peeking-iterator.cpp)|Medium
 |[399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)||[evaluate-division](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/399-evaluate-division.cpp)|Medium
+|[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)||[backspace-string-compare](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/844-backspace-string-compare.cpp)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
