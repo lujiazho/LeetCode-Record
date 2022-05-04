@@ -143,6 +143,7 @@ A record for coding practice on leetcode
 |(open addressing)[705. Design HashSet](https://leetcode.com/problems/design-hashset/)||[design-hashset](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/705-design-hashset.cpp)|Easy
 |(open addressing)[706. Design HashMap](https://leetcode.com/problems/design-hashmap/)||[design-hashmap](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/706-design-hashmap.cpp)|Easy
 |[1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)||[design-underground-system](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1396-design-underground-system.cpp)|Medium
+|[1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)||[max-number-of-k-sum-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1679-max-number-of-k-sum-pairs.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
