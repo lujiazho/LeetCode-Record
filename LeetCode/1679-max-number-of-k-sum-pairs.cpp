@@ -1,22 +1,32 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// reference others
+// easy but c++'s map is annoying
 ////////////////
-// Time Complexity: O(nlogn)
+// Time Complexity: O(n)
 // Space Complexity: O(n)
 ///////////////////////////////////////////////////////////////////////////////////////////////
 class Solution {
 public:
-    int findUnsortedSubarray(vector<int>& nums) {
-        vector<int> v(nums.begin(), nums.end());
-        sort(v.begin(), v.end());
-        
-        int start = 0, end = v.size() - 1;
-        while (start < v.size() && nums[start] == v[start]) {
-            start++;
+    int maxOperations(vector<int>& nums, int k) {
+        unordered_map<int, int> m;
+        for (int i=0 ; i<nums.size() ; i++){
+            m[nums[i]] += 1;
         }
-        while (end >= start && nums[end] == v[end]) {
-            end--;
+        int res = 0;
+        for (auto p:m){
+            int num = p.first;
+            int count = p.second;
+            if (num*2 == k){
+                res += count/2;
+                m[num] = count%2;
+            }else{
+                while (count && m.find(k-num) != m.end() && m[k-num] > 0){
+                    count--;
+                    m[k-num]--;
+                    res++;
+                }
+                m[num] = count;
+            }
         }
-        return end - start + 1;
+        return res;
     }
 };
