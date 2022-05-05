@@ -342,6 +342,7 @@ A record for coding practice on leetcode
 |[399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)||[evaluate-division](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/399-evaluate-division.cpp)|Medium
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)||[backspace-string-compare](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/844-backspace-string-compare.cpp)|Easy
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)||[sort-array-by-parity](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/905-sort-array-by-parity.cpp)|Easy
+|[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)||[implement-stack-using-queues](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/225-implement-stack-using-queues.cpp)|Easy
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
