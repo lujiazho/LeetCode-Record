@@ -118,6 +118,7 @@ A record for coding practice on leetcode
 |[856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)||[score-of-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/856-score-of-parentheses.cpp)|Medium
 |[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)||[remove-duplicate-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/316-remove-duplicate-letters.cpp)|Medium
 |[1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||[remove-all-adjacent-duplicates-in-string-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1209-remove-all-adjacent-duplicates-in-string-ii.cpp)|Medium
+|[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)||[132-pattern](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/456-132-pattern.cpp)|Medium
 
 #### 3 Heap Optimization
 
