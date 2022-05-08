@@ -197,6 +197,7 @@ A record for coding practice on leetcode
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||[kth-smallest-element-in-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/230-kth-smallest-element-in-a-bst.cpp)|Medium
 |(inorder)[99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)||[recover-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/99-recover-binary-search-tree.cpp)|Medium
 |(inorder)[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)||[binary-search-tree-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/173-binary-search-tree-iterator.cpp)|Medium
+|[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)||[flatten-nested-list-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/341-flatten-nested-list-iterator.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
