@@ -348,6 +348,7 @@ A record for coding practice on leetcode
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)||[sort-array-by-parity](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/905-sort-array-by-parity.cpp)|Easy
 |[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)||[implement-stack-using-queues](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/225-implement-stack-using-queues.cpp)|Easy
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||[letter-combinations-of-a-phone-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/17-letter-combinations-of-a-phone-number.cpp)|Medium
+|[1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)||[count-sorted-vowel-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1641-count-sorted-vowel-strings.cpp)|Medium
 
 ### Ⅶ Math Property
 |leetcode题目|Python代码|C++代码|难度|
