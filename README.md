@@ -223,6 +223,7 @@ A record for coding practice on leetcode
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |(Dijkstra or any other)[882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[reachable-nodes-in-subdivided-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/882-reachable-nodes-in-subdivided-graph.py)||Hard
+|(Dijkstra)[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[network-delay-time](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/743-network-delay-time.py)||Medium
 
 #### 5 Minimum Spanning Tree
 |leetcode题目|Python代码|C++代码|难度|
