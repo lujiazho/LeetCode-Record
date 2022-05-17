@@ -200,6 +200,7 @@ A record for coding practice on leetcode
 |(inorder)[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)||[binary-search-tree-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/173-binary-search-tree-iterator.cpp)|Medium
 |[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)||[flatten-nested-list-iterator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/341-flatten-nested-list-iterator.cpp)|Medium
 |[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)||[combination-sum-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/216-combination-sum-iii.cpp)|Medium
+|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)||[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
