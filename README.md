@@ -356,7 +356,7 @@ A record for coding practice on leetcode
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||[letter-combinations-of-a-phone-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/17-letter-combinations-of-a-phone-number.cpp)|Medium
 |[1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)||[count-sorted-vowel-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1641-count-sorted-vowel-strings.cpp)|Medium
 
-### Ⅶ Math Property
+### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[782. Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[transform-to-chessboard](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/782-transform-to-chessboard.py)||Hard
@@ -369,3 +369,8 @@ A record for coding practice on leetcode
 |[382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)||[linked-list-random-node](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/382-linked-list-random-node.cpp)|Medium
 |[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||[maximum-xor-of-two-numbers-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/421-maximum-xor-of-two-numbers-in-an-array.cpp)|Medium
 |[31. Next Permutation](https://leetcode.com/problems/next-permutation/)||[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.cpp)|Medium
+
+### Ⅸ Outsiders (never learned the algorithm)
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
+|(Tarjan)[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)||[critical-connections-in-a-network](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1192-critical-connections-in-a-network.cpp)|Hard
