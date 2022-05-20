@@ -258,6 +258,7 @@ A record for coding practice on leetcode
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||[best-time-to-buy-and-sell-stock](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/121-best-time-to-buy-and-sell-stock.cpp)|Easy
 |[799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)||[champagne-tower](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/799-champagne-tower.cpp)|Medium
 |(0/1-knapsack)[740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)||[delete-and-earn](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/740-delete-and-earn.cpp)|Medium
+|[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)||[unique-paths-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/63-unique-paths-ii.cpp)|Easy
 
 #### 2 Interval DP
 
