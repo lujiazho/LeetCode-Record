@@ -260,6 +260,7 @@ A record for coding practice on leetcode
 |(0/1-knapsack)[740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)||[delete-and-earn](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/740-delete-and-earn.cpp)|Medium
 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)||[unique-paths-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/63-unique-paths-ii.cpp)|Easy
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)||[coin-change](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/322-coin-change.cpp)|Medium
+|[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)||[ones-and-zeroes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/474-ones-and-zeroes.cpp)|Medium
 
 #### 2 Interval DP
 
