@@ -72,6 +72,7 @@ A record for coding practice on leetcode
 |[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[single-element-in-a-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/540-single-element-in-a-sorted-array.py)||Medium
 |(binary search+matrix prefix sum)[221. Maximal Square](https://leetcode.com/problems/maximal-square/)|[maximal-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/221-maximal-square.py)||Medium
 |[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)||[split-array-largest-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/410-split-array-largest-sum.cpp)|Hard
+|[354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)||[russian-doll-envelopes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/354-russian-doll-envelopes.cpp)|Hard
 
 #### 5 High Precision
 |leetcode题目|Python代码|C++代码|难度|
