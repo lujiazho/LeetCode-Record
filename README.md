@@ -362,6 +362,7 @@ A record for coding practice on leetcode
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||[letter-combinations-of-a-phone-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/17-letter-combinations-of-a-phone-number.cpp)|Medium
 |[1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)||[count-sorted-vowel-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1641-count-sorted-vowel-strings.cpp)|Medium
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)||[palindromic-substrings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/647-palindromic-substrings.cpp)|Medium
+|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)||[number-of-1-bits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/191-number-of-1-bits.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
