@@ -378,7 +378,7 @@ A record for coding practice on leetcode
 |[382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)||[linked-list-random-node](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/382-linked-list-random-node.cpp)|Medium
 |[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||[maximum-xor-of-two-numbers-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/421-maximum-xor-of-two-numbers-in-an-array.cpp)|Medium
 |[31. Next Permutation](https://leetcode.com/problems/next-permutation/)||[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.cpp)|Medium
-|[268. Missing Number](https://leetcode.com/problems/missing-number/)|[missing-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/268-missing-number.py)||Easy
+|[268. Missing Number](https://leetcode.com/problems/missing-number/)||[missing-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/268-missing-number.cpp)|Easy
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
