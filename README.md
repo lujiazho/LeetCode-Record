@@ -86,6 +86,7 @@ A record for coding practice on leetcode
 |[67. Add Binary](https://leetcode.com/problems/add-binary/)||[add-binary](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/67-add-binary.cpp)|Easy
 |[136. Single Number](https://leetcode.com/problems/single-number/)||[single-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/136-single-number.cpp)|Easy
 |[338. Counting Bits](https://leetcode.com/problems/counting-bits/)||[counting-bits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/338-counting-bits.cpp)|Easy
+|[318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)||[maximum-product-of-word-lengths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/318-maximum-product-of-word-lengths.cpp)|Medium
 
 #### 7 Intervals Merge
 |leetcode题目|Python代码|C++代码|难度|
