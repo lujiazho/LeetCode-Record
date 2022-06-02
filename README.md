@@ -383,6 +383,7 @@ A record for coding practice on leetcode
 |[31. Next Permutation](https://leetcode.com/problems/next-permutation/)||[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.cpp)|Medium
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)||[missing-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/268-missing-number.cpp)|Easy
 |[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)||[divide-two-integers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/29-divide-two-integers.cpp)|Medium
+|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)||[transpose-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/867-transpose-matrix.cpp)|Easy
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
