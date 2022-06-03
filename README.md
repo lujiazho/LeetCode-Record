@@ -94,6 +94,11 @@ A record for coding practice on leetcode
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[interval-list-intersections](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/986-interval-list-intersections.py)||Medium
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/56-merge-intervals.py)||Medium
 
+#### 8 Prefix Sum
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
+|[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)||[range-sum-query-2d-immutable](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/304-range-sum-query-2d-immutable.cpp)|Medium
+
 ### Ⅱ Data Structure
 #### 1 Heap
 |leetcode题目|Python代码|C++代码|难度|
