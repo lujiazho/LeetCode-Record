@@ -57,6 +57,7 @@ A record for coding practice on leetcode
 |[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)||[3sum-with-multiplicity](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/923-3sum-with-multiplicity.cpp)|Medium
 |[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)||[intersection-of-two-linked-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/160-intersection-of-two-linked-lists.cpp)|Easy
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||[merge-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/88-merge-sorted-array.cpp)|Easy
+|[1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)||[remove-palindromic-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1332-remove-palindromic-subsequences.cpp)|Easy
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
