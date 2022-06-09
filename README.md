@@ -58,6 +58,7 @@ A record for coding practice on leetcode
 |[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)||[intersection-of-two-linked-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/160-intersection-of-two-linked-lists.cpp)|Easy
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||[merge-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/88-merge-sorted-array.cpp)|Easy
 |[1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)||[remove-palindromic-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1332-remove-palindromic-subsequences.cpp)|Easy
+|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)||[two-sum-ii-input-array-is-sorted](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/167-two-sum-ii-input-array-is-sorted.cpp)|Medium
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
