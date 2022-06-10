@@ -1,5 +1,5 @@
 # LeetCode-Record
-A record for coding practice on leetcode
+A record for coding practice on leetcode. Notation '\*' means appearing the second time.
 
 ### Ⅰ Basic Algorithm
 |leetcode题目|Python代码|C++代码|难度|
@@ -46,7 +46,7 @@ A record for coding practice on leetcode
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/75-sort-colors.py)||Medium
 |(more than 2)[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[odd-even-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/328-odd-even-linked-list.py)||Medium
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[middle-of-the-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/876-middle-of-the-linked-list.py)||Easy
-|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||[longest-substring-without-repeating-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/3-longest-substring-without-repeating-characters.cpp)|Medium
+|\*[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||[longest-substring-without-repeating-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/3-longest-substring-without-repeating-characters.cpp)|Medium
 |[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)||[swap-nodes-in-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/24-swap-nodes-in-pairs.cpp)|Medium
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)||[arithmetic-slices](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/413-arithmetic-slices.cpp)|Medium
 |(merge sort)[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.cpp)|Easy
