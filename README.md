@@ -59,7 +59,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||[merge-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/88-merge-sorted-array.cpp)|Easy
 |[1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)||[remove-palindromic-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1332-remove-palindromic-subsequences.cpp)|Easy
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)||[two-sum-ii-input-array-is-sorted](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/167-two-sum-ii-input-array-is-sorted.cpp)|Medium
-|[1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)||[minimum-operations-to-reduce-x-to-zero/](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1658-minimum-operations-to-reduce-x-to-zero.cpp)|Medium
+|[1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)||[minimum-operations-to-reduce-x-to-zero](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1658-minimum-operations-to-reduce-x-to-zero.cpp)|Medium
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
