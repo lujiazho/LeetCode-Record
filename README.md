@@ -103,6 +103,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)||[range-sum-query-2d-immutable](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/304-range-sum-query-2d-immutable.cpp)|Medium
+|[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)||[maximum-erasure-value](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1695-maximum-erasure-value.cpp)|Medium
 
 ### Ⅱ Data Structure
 #### 1 Heap
