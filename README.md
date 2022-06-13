@@ -277,6 +277,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)||[unique-paths-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/63-unique-paths-ii.cpp)|Easy
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)||[coin-change](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/322-coin-change.cpp)|Medium
 |[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)||[ones-and-zeroes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/474-ones-and-zeroes.cpp)|Medium
+|[120. Triangle](https://leetcode.com/problems/triangle/)||[triangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/120-triangle.cpp)|Medium
 
 #### 2 Interval DP
 
