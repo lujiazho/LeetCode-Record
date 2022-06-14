@@ -278,6 +278,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)||[coin-change](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/322-coin-change.cpp)|Medium
 |[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)||[ones-and-zeroes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/474-ones-and-zeroes.cpp)|Medium
 |[120. Triangle](https://leetcode.com/problems/triangle/)||[triangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/120-triangle.cpp)|Medium
+|[583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)||[delete-operation-for-two-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/583-delete-operation-for-two-strings.cpp)|Medium
 
 #### 2 Interval DP
 
