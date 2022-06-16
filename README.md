@@ -282,6 +282,9 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)||[longest-string-chain](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1048-longest-string-chain.cpp)|Medium
 
 #### 2 Interval DP
+|leetcode题目|Python代码|C++代码|难度|
+|---|---|---|---
+|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)||[longest-palindromic-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/5-longest-palindromic-substring.cpp)|Medium
 
 #### 3 Counting Problem DP
 |leetcode题目|Python代码|C++代码|难度|
