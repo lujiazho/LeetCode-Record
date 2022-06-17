@@ -218,6 +218,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||[longest-increasing-path-in-a-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/329-longest-increasing-path-in-a-matrix.cpp)|Hard
 |[51. N-Queens](https://leetcode.com/problems/n-queens/)||[n-queens](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/51-n-queens.cpp)|Hard
 |[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)||[n-queens-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/52-n-queens-ii.cpp)|Hard
+|[968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)||[binary-tree-cameras](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/968-binary-tree-cameras.cpp)|Hard
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
