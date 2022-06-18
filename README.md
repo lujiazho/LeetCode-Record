@@ -161,6 +161,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)||[design-underground-system](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1396-design-underground-system.cpp)|Medium
 |[1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)||[max-number-of-k-sum-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1679-max-number-of-k-sum-pairs.cpp)|Medium
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)||[permutations-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/47-permutations-ii.cpp)|Medium
+|[745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)||[prefix-and-suffix-search](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/745-prefix-and-suffix-search.cpp)|Hard
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
