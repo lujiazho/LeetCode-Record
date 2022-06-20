@@ -163,6 +163,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)||[permutations-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/47-permutations-ii.cpp)|Medium
 |[745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)||[prefix-and-suffix-search](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/745-prefix-and-suffix-search.cpp)|Hard
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)||[search-suggestions-system](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1268-search-suggestions-system.cpp)|Medium
+|[820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)||[short-encoding-of-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/820-short-encoding-of-words.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
