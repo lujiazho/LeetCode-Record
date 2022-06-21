@@ -322,6 +322,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)||[boats-to-save-people](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/881-boats-to-save-people.cpp)|Medium
 |[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)||[two-city-scheduling](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1029-two-city-scheduling.cpp)|Medium
 |[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)||[last-stone-weight](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1046-last-stone-weight.cpp)|Easy
+|[1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)||[furthest-building-you-can-reach](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1642-furthest-building-you-can-reach.cpp)|Medium
 
 ### Ⅶ No Classification
 |leetcode题目|Python代码|C++代码|难度|
