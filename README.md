@@ -30,6 +30,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(2-D binary search)[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)||[search-a-2d-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/74-search-a-2d-matrix.cpp)|Medium
 |(binary search tree)[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)||[trim-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/669-trim-a-binary-search-tree.cpp)|Medium
 |(sorting)[581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)||[shortest-unsorted-continuous-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/581-shortest-unsorted-continuous-subarray.cpp)|Medium
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)||[kth-largest-element-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/215-kth-largest-element-in-an-array.cpp)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
