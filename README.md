@@ -410,7 +410,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)||[missing-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/268-missing-number.cpp)|Easy
 |[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)||[divide-two-integers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/29-divide-two-integers.cpp)|Medium
 |[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)||[transpose-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/867-transpose-matrix.cpp)|Easy
-|[1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[construct-target-array-with-multiple-sums](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1354-construct-target-array-with-multiple-sums.py)||Hard
+|[1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)||[construct-target-array-with-multiple-sums](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1354-construct-target-array-with-multiple-sums.cpp)|Hard
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
