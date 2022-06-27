@@ -395,6 +395,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)||[number-of-steps-to-reduce-a-number-to-zero](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1342-number-of-steps-to-reduce-a-number-to-zero.cpp)|Easy
 |[1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)||[check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp)|Medium
 |[1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)||[running-sum-of-1d-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1480-running-sum-of-1d-array.cpp)|Easy
+|[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)||[partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
