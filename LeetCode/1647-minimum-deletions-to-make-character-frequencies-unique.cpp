@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////////////////////////////////////////
+// pretty easy
+////////////////
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+///////////////////////////////////////////////////////////////////////////////////////////////
+class Solution {
+public:
+    int minPartitions(string n) {
+        int max_ = 0;
+        for (int i=0 ; i<n.length() ; i++){
+            int ch = n[i] - '0';
+            max_ = max(max_, ch);
+        }
+        return max_;
+    }
+};
