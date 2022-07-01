@@ -33,6 +33,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)||[kth-largest-element-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/215-kth-largest-element-in-an-array.cpp)|Medium
 |[665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)||[non-decreasing-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/665-non-decreasing-array.cpp)|Medium
 |[1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)||[maximum-points-you-can-obtain-from-cards](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1423-maximum-points-you-can-obtain-from-cards.cpp)|Medium
+|(sort)[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)||[maximum-units-on-a-truck](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1710-maximum-units-on-a-truck.cpp)|Easy
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
