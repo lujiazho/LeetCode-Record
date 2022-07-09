@@ -324,6 +324,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[path-sum-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/437-path-sum-iii.py)||Medium
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[burst-balloons](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/312-burst-balloons.py)||Hard
 |[1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)||[count-all-valid-pickup-and-delivery-options](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1359-count-all-valid-pickup-and-delivery-options.cpp)|Hard
+|[1473. Paint House III](https://leetcode.com/problems/paint-house-iii/)||[paint-house-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1473-paint-house-iii.cpp)|Hard
 
 ### Ⅵ Greedy Algorithm
 |leetcode题目|Python代码|C++代码|难度|
