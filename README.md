@@ -233,6 +233,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)||[binary-tree-cameras](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/968-binary-tree-cameras.cpp)|Hard
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)||[fibonacci-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/509-fibonacci-number.cpp)|Easy
 |[473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)||[matchsticks-to-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/473-matchsticks-to-square.cpp)|Medium
+|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||[construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
