@@ -173,6 +173,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)||[search-suggestions-system](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1268-search-suggestions-system.cpp)|Medium
 |[820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)||[short-encoding-of-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/820-short-encoding-of-words.cpp)|Medium
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)||[longest-consecutive-sequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/128-longest-consecutive-sequence.cpp)|Medium
+|[1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)||[number-of-submatrices-that-sum-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1074-number-of-submatrices-that-sum-to-target.cpp)|Hard
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
