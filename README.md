@@ -419,6 +419,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)||[running-sum-of-1d-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1480-running-sum-of-1d-array.cpp)|Easy
 |[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)||[partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp)|Medium
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||[pascals-triangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/118-pascals-triangle.cpp)|Easy
+|[86. Partition List](https://leetcode.com/problems/partition-list/)||[partition-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/86-partition-list.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
