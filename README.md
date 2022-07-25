@@ -37,6 +37,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(sort)[1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)||[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.cpp)|Medium
 |[376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)||[wiggle-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/376-wiggle-subsequence.cpp)|Medium
 |(merge sort)[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)||[count-of-smaller-numbers-after-self](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/315-count-of-smaller-numbers-after-self.cpp)|Hard
+|(binary search)[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)||[find-first-and-last-position-of-element-in-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/34-find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
