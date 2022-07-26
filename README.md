@@ -241,6 +241,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||[construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp)|Medium
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)||[max-area-of-island](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/695-max-area-of-island.cpp)|Medium
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||[search-a-2d-matrix-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/240-search-a-2d-matrix-ii.cpp)|Medium
+|[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||[lowest-common-ancestor-of-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/236-lowest-common-ancestor-of-a-binary-tree.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
