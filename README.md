@@ -242,6 +242,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)||[max-area-of-island](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/695-max-area-of-island.cpp)|Medium
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||[search-a-2d-matrix-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/240-search-a-2d-matrix-ii.cpp)|Medium
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||[lowest-common-ancestor-of-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/236-lowest-common-ancestor-of-a-binary-tree.cpp)|Medium
+|[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||[flatten-binary-tree-to-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/114-flatten-binary-tree-to-linked-list.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
