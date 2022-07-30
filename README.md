@@ -427,6 +427,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[86. Partition List](https://leetcode.com/problems/partition-list/)||[partition-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/86-partition-list.cpp)|Medium
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)||[valid-anagram](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/242-valid-anagram.cpp)|Easy
 |[890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)||[find-and-replace-pattern](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/890-find-and-replace-pattern.cpp)|Medium
+|[916. Word Subsets](https://leetcode.com/problems/word-subsets/)||[word-subsets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/916-word-subsets.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
