@@ -21,7 +21,7 @@ public:
     }
 };
 
-# in O(n)
+// in O(n)
 class Solution {
 public:
     int findUnsortedSubarray(vector<int>& nums) {
