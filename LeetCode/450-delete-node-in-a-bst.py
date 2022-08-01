@@ -55,3 +55,31 @@ class Solution:
                 f.left = f.left.left
         t.val = x
         return root
+    
+    
+# this one is much better
+class Solution:
+    def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
+        def dfs(node, val):
+            if not node:
+                return None
+            if node.val == val:
+                if not node.left and not node.right:
+                    return None
+                if not node.left and node.right:
+                    return node.right
+                if node.left and not node.right:
+                    return node.left
+                if node.left and node.right:
+                    cur = node.right
+                    while cur.left:
+                        cur = cur.left
+                    node.val = cur.val
+                    node.right = dfs(node.right, cur.val)
+            elif node.val < val:
+                node.right = dfs(node.right, val)
+            elif node.val > val:
+                node.left = dfs(node.left, val)
+            return node
+        
+        return dfs(root, key)
