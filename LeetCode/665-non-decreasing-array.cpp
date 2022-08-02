@@ -27,3 +27,30 @@ public:
         return true;
     }
 };
+
+// a more clear solution
+class Solution {
+public:
+    bool checkPossibility(vector<int>& nums) {
+        int flag = 0;
+        for (int i=1 ; i<nums.size() ; i++){
+            if (nums[i-1] > nums[i]){
+                if (flag == 1) return false;
+
+                if (i-2 >= 0){
+                    if (nums[i-2] <= nums[i]){
+                        nums[i-1] = nums[i];
+                        flag = 1;
+                    }else if (nums[i-2] > nums[i] && nums[i-2] <= nums[i-1]){
+                        nums[i] = nums[i-1];
+                        flag = 1;
+                    }else return false;
+                }else {
+                    nums[i-1] = nums[i];
+                    flag = 1;
+                }
+            }
+        }
+        return true;
+    }
+};
