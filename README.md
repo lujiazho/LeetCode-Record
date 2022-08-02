@@ -125,6 +125,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(sort pairs)[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||[top-k-frequent-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/347-top-k-frequent-elements.cpp)|Medium
 |[630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)||[course-schedule-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/630-course-schedule-iii.cpp)|Hard
 |[1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/)||[jump-game-vi](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1696-jump-game-vi.cpp)|Medium
+|[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)||[kth-smallest-element-in-a-sorted-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/378-kth-smallest-element-in-a-sorted-matrix.cpp)|Medium
 
 #### 2 Stack
 |leetcode题目|Python代码|C++代码|难度|
