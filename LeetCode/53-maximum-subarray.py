@@ -22,7 +22,7 @@ class Solution:
 ###############################################################################################
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        # return: 0 lsum, 1 rsum, 2 msum, 3 isum
+        # return: 0 left-staring max sum, 1 right-ending max sum, 2 max sum in total, 3 range sum
         def divide_conquer(l, r):
             if l == r:
                 return nums[l], nums[l], nums[l], nums[l]
