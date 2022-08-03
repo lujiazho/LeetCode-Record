@@ -24,3 +24,15 @@ public:
         return head;
     }
 };
+
+// above solution works well but a little bit messy, below recursion is brillant
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if (!head || !head->next) return head;
+        ListNode *p = head->next;
+        head->next = swapPairs(p->next);
+        p->next = head;
+        return p;
+    }
+};
