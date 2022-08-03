@@ -28,3 +28,25 @@ public:
         return res;
     }
 };
+
+// update -- 8/3/2022
+class Solution {
+public:
+    int numberOfArithmeticSlices(vector<int>& nums) {
+        if (nums.size() < 3) return 0;
+        int st = 0;
+        int diff = nums[1] - nums[0];
+        int res = 0;
+        for (int i=2 ; i<nums.size() ; i++){
+            if (nums[i] - nums[i-1] != diff){
+                int len_ = i - st;
+                res += (1+(len_-2))*(len_-2)/2; // record number within this range
+                st = i-1;
+                diff = nums[i] - nums[i-1];
+            }
+        }
+        int len_ = nums.size() - st;
+        res += (1+(len_-2))*(len_-2)/2;
+        return res;
+    }
+};
