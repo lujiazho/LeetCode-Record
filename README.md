@@ -4,7 +4,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 ### Ⅰ Basic Algorithm
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
-|(iteratively+recursively)[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[reverse-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/206-reverse-linked-list.py)||Easy
+|(iteratively+recursively)[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[reverse-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/206-reverse-linked-list.py)|[reverse-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/206-reverse-linked-list.cpp)|Easy
 |(suffix sum)[848. Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[shifting-letters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/848-shifting-letters.py)||Medium
 |(iteratively+recursively)[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[n-th-tribonacci-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1137-n-th-tribonacci-number.py)||Easy
 |(preorder traversal)[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[diameter-of-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/543-diameter-of-binary-tree.py)||Easy
