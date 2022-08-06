@@ -451,6 +451,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)||[transpose-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/867-transpose-matrix.cpp)|Easy
 |[1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)||[construct-target-array-with-multiple-sums](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1354-construct-target-array-with-multiple-sums.cpp)|Hard
 |[462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)||[minimum-moves-to-equal-array-elements-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/462-minimum-moves-to-equal-array-elements-ii.cpp)|Medium
+|[458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)||[poor-pigs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/458-poor-pigs.cpp)|Hard
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
