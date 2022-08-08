@@ -313,6 +313,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)||[k-inverse-pairs-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/629-k-inverse-pairs-array.cpp)|Hard
 |[377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)||[combination-sum-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/377-combination-sum-iv.cpp)|Medium
 |[1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)||[count-vowels-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1220-count-vowels-permutation.cpp)|Hard
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)||[longest-increasing-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/300-longest-increasing-subsequence.cpp)|Medium
 
 #### 2 Interval DP
 |leetcode题目|Python代码|C++代码|难度|
