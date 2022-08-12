@@ -246,6 +246,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||[flatten-binary-tree-to-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/114-flatten-binary-tree-to-linked-list.cpp)|Medium
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||[convert-sorted-array-to-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/108-convert-sorted-array-to-binary-search-tree.cpp)|Easy
 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)||[validate-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/98-validate-binary-search-tree.cpp)|Medium
+|[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||[lowest-common-ancestor-of-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/235-lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
