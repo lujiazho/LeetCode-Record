@@ -181,6 +181,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)||[number-of-matching-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/792-number-of-matching-subsequences.cpp)|Medium
 |[30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)||[substring-with-concatenation-of-all-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/30-substring-with-concatenation-of-all-words.cpp)|Hard
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||[roman-to-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/13-roman-to-integer.cpp)|Easy
+|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)||[unique-morse-code-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/804-unique-morse-code-words.cpp)|Easy
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
