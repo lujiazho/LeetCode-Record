@@ -447,6 +447,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)||[range-sum-query-mutable](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/307-range-sum-query-mutable.cpp)|Medium
 |[729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)||[my-calendar-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/729-my-calendar-i.cpp)|Medium
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)||[first-unique-character-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/387-first-unique-character-in-a-string.cpp)|Easy
+|[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||[palindrome-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/234-palindrome-linked-list.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
