@@ -469,6 +469,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)||[minimum-moves-to-equal-array-elements-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/462-minimum-moves-to-equal-array-elements-ii.cpp)|Medium
 |[458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)||[poor-pigs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/458-poor-pigs.cpp)|Hard
 |[342. Power of Four](https://leetcode.com/problems/power-of-four/)||[power-of-four](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/342-power-of-four.cpp)|Easy
+|[326. Power of Three](https://leetcode.com/problems/power-of-three/)||[power-of-three](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/326-power-of-three.cpp)|Easy
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
