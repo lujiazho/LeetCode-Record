@@ -449,6 +449,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)||[first-unique-character-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/387-first-unique-character-in-a-string.cpp)|Easy
 |[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||[palindrome-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/234-palindrome-linked-list.cpp)|Easy
 |[383. Ransom Note](https://leetcode.com/problems/ransom-note/)||[ransom-note](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/383-ransom-note.cpp)|Easy
+|[869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)||[reordered-power-of-2](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/869-reordered-power-of-2.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
