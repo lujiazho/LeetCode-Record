@@ -113,6 +113,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |---|---|---|---
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)||[range-sum-query-2d-immutable](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/304-range-sum-query-2d-immutable.cpp)|Medium
 |[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)||[maximum-erasure-value](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1695-maximum-erasure-value.cpp)|Medium
+|(kadane)[363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)||[max-sum-of-rectangle-no-larger-than-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/363-max-sum-of-rectangle-no-larger-than-k.cpp)|Hard
 
 ### Ⅱ Data Structure
 #### 1 Heap
