@@ -451,6 +451,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||[palindrome-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/234-palindrome-linked-list.cpp)|Easy
 |[383. Ransom Note](https://leetcode.com/problems/ransom-note/)||[ransom-note](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/383-ransom-note.cpp)|Easy
 |[869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)||[reordered-power-of-2](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/869-reordered-power-of-2.cpp)|Medium
+|[1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)||[sort-the-matrix-diagonally](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1329-sort-the-matrix-diagonally.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
