@@ -199,7 +199,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[largest-component-size-by-common-factor](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/952-largest-component-size-by-common-factor.py)||Hard
-|(DSUorDFS)[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.py)||Medium
+|(DSUorDFS)[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.py)|[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.cpp)|Medium
 |[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[accounts-merge](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/721-accounts-merge.py)||Medium
 |[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)||[smallest-string-with-swaps](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1202-smallest-string-with-swaps.cpp)|Medium
 
@@ -253,7 +253,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||[convert-sorted-array-to-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/108-convert-sorted-array-to-binary-search-tree.cpp)|Easy
 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)||[validate-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/98-validate-binary-search-tree.cpp)|Medium
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||[lowest-common-ancestor-of-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/235-lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy
-|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)||[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
