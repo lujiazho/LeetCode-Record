@@ -480,3 +480,4 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |(Tarjan)[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)||[critical-connections-in-a-network](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1192-critical-connections-in-a-network.cpp)|Hard
+
