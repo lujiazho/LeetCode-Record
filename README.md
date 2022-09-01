@@ -254,6 +254,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)||[validate-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/98-validate-binary-search-tree.cpp)|Medium
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||[lowest-common-ancestor-of-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/235-lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy
 |[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)||[pacific-atlantic-water-flow](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/417-pacific-atlantic-water-flow.cpp)|Medium
+|[1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)||[count-good-nodes-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1448-count-good-nodes-in-binary-tree.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
