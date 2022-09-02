@@ -273,6 +273,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||[binary-tree-right-side-view](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/199-binary-tree-right-side-view.cpp)|Medium
 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)||[binary-tree-level-order-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/102-binary-tree-level-order-traversal.cpp)|Medium
 |[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)||[word-ladder-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/126-word-ladder-ii.cpp)|Hard
+|[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)||[average-of-levels-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/637-average-of-levels-in-binary-tree.cpp)|Easy
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
