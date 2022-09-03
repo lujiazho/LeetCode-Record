@@ -255,6 +255,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||[lowest-common-ancestor-of-a-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/235-lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy
 |[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)||[pacific-atlantic-water-flow](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/417-pacific-atlantic-water-flow.cpp)|Medium
 |[1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)||[count-good-nodes-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1448-count-good-nodes-in-binary-tree.cpp)|Medium
+|[967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)||[numbers-with-same-consecutive-differences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/967-numbers-with-same-consecutive-differences.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
