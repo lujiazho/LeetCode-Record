@@ -258,6 +258,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)||[numbers-with-same-consecutive-differences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/967-numbers-with-same-consecutive-differences.cpp)|Medium
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)||[vertical-order-traversal-of-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/987-vertical-order-traversal-of-a-binary-tree.cpp)|Hard
 |[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)||[binary-tree-pruning](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/814-binary-tree-pruning.cpp)|Medium
+|[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)||[construct-string-from-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/606-construct-string-from-binary-tree.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
