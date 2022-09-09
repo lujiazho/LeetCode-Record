@@ -380,6 +380,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)||[queue-reconstruction-by-height](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/406-queue-reconstruction-by-height.cpp)|Medium
 |[135. Candy](https://leetcode.com/problems/candy/)||[candy](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/135-candy.cpp)|Hard
 |[936. Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)||[stamping-the-sequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/936-stamping-the-sequence.cpp)|Hard
+|[1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)||[the-number-of-weak-characters-in-the-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1996-the-number-of-weak-characters-in-the-game.cpp)|Medium
 
 ### Ⅶ No Classification
 |leetcode题目|Python代码|C++代码|难度|
