@@ -369,6 +369,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)||[count-all-valid-pickup-and-delivery-options](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1359-count-all-valid-pickup-and-delivery-options.cpp)|Hard
 |[1473. Paint House III](https://leetcode.com/problems/paint-house-iii/)||[paint-house-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1473-paint-house-iii.cpp)|Hard
 |[576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)||[out-of-boundary-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/576-out-of-boundary-paths.cpp)|Medium
+|[1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)||[maximum-score-from-performing-multiplication-operations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1770-maximum-score-from-performing-multiplication-operations.cpp)|Medium
 
 ### Ⅵ Greedy Algorithm
 |leetcode题目|Python代码|C++代码|难度|
