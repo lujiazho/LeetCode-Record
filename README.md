@@ -493,6 +493,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)||[power-of-three](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/326-power-of-three.cpp)|Easy
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)||[rotate-image](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/48-rotate-image.cpp)|Medium
 |[1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)||[pseudo-palindromic-paths-in-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1457-pseudo-palindromic-paths-in-a-binary-tree.cpp)|Medium
+|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||[trapping-rain-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/42-trapping-rain-water.cpp)|Hard
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
