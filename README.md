@@ -187,6 +187,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)||[unique-morse-code-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/804-unique-morse-code-words.cpp)|Easy
 |[659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)||[split-array-into-consecutive-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/659-split-array-into-consecutive-subsequences.cpp)|Medium
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)||[palindrome-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/336-palindrome-pairs.cpp)|Hard
+|(split-string)[609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)||[find-duplicate-file-in-system](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/609-find-duplicate-file-in-system.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
