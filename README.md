@@ -472,6 +472,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)||[utf-8-validation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/393-utf-8-validation.cpp)|Medium
 |[718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||[maximum-length-of-repeated-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/718-maximum-length-of-repeated-subarray.cpp)|Medium
 |[985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)||[sum-of-even-numbers-after-queries](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/985-sum-of-even-numbers-after-queries.cpp)|Medium
+|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)||[reverse-words-in-a-string-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/557-reverse-words-in-a-string-iii.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
