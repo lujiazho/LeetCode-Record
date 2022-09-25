@@ -77,6 +77,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[find-winner-on-a-tic-tac-toe-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1275-find-winner-on-a-tic-tac-toe-game.py)||Easy
 |[1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)||[robot-bounded-in-circle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1041-robot-bounded-in-circle.cpp)|Medium
 |[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)||[spiral-matrix-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/59-spiral-matrix-ii.cpp)|Medium
+|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)||[design-circular-queue](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/622-design-circular-queue.cpp)|Medium
 
 #### 4 Binary Search(Not that simple)
 |leetcode题目|Python代码|C++代码|难度|
