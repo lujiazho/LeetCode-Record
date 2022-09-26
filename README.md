@@ -206,6 +206,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(DSUorDFS)[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.py)|[number-of-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/200-number-of-islands.cpp)|Medium
 |[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[accounts-merge](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/721-accounts-merge.py)||Medium
 |[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)||[smallest-string-with-swaps](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1202-smallest-string-with-swaps.cpp)|Medium
+|[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)||[satisfiability-of-equality-equations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/990-satisfiability-of-equality-equations.cpp)|Medium
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
