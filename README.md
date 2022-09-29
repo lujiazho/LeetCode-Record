@@ -478,6 +478,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)||[sum-of-even-numbers-after-queries](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/985-sum-of-even-numbers-after-queries.cpp)|Medium
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)||[reverse-words-in-a-string-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/557-reverse-words-in-a-string-iii.cpp)|Medium
 |[838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)||[push-dominoes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/838-push-dominoes.cpp)|Medium
+|[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)||[find-k-closest-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/658-find-k-closest-elements.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
