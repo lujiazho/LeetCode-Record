@@ -344,6 +344,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)||[binary-trees-with-factors](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/823-binary-trees-with-factors.cpp)|Medium
 |[871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)||[minimum-number-of-refueling-stops](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/871-minimum-number-of-refueling-stops.cpp)|Hard
 |[188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)||[best-time-to-buy-and-sell-stock-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/188-best-time-to-buy-and-sell-stock-iv.cpp)|Hard
+|[91. Decode Ways](https://leetcode.com/problems/decode-ways/)||[decode-ways](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/91-decode-ways.cpp)|Medium
 
 #### 2 Interval DP
 |leetcode题目|Python代码|C++代码|难度|
