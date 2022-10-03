@@ -482,6 +482,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)||[reverse-words-in-a-string-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/557-reverse-words-in-a-string-iii.cpp)|Medium
 |[838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)||[push-dominoes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/838-push-dominoes.cpp)|Medium
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)||[find-k-closest-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/658-find-k-closest-elements.cpp)|Medium
+|[1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)||[minimum-time-to-make-rope-colorful](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1578-minimum-time-to-make-rope-colorful.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
