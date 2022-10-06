@@ -191,6 +191,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)||[palindrome-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/336-palindrome-pairs.cpp)|Hard
 |(split-string)[609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)||[find-duplicate-file-in-system](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/609-find-duplicate-file-in-system.cpp)|Medium
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)||[the-skyline-problem](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/218-the-skyline-problem.cpp)|Hard
+|[981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)||[time-based-key-value-store](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/981-time-based-key-value-store.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
