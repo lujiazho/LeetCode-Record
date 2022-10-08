@@ -70,6 +70,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)||[minimum-operations-to-reduce-x-to-zero](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1658-minimum-operations-to-reduce-x-to-zero.cpp)|Medium
 |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)||[reverse-linked-list-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/92-reverse-linked-list-ii.cpp)|Medium
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)||[remove-nth-node-from-end-of-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/19-remove-nth-node-from-end-of-list.cpp)|Medium
+|(more than 2)[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)||[3sum-closest](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/16-3sum-closest.cpp)|Medium
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
