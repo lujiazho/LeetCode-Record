@@ -273,6 +273,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)||[path-sum-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/113-path-sum-ii.cpp)|Medium
 |[112. Path Sum](https://leetcode.com/problems/path-sum/)||[path-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/112-path-sum.cpp)|Easy
 |[623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)||[add-one-row-to-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/623-add-one-row-to-tree.cpp)|Medium
+|[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)||[two-sum-iv-input-is-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/653-two-sum-iv-input-is-a-bst.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
