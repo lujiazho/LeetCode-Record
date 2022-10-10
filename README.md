@@ -406,7 +406,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/485-max-consecutive-ones.py)||Easy
-|[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.py)||Medium
+|[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.py)|[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.cpp)|Medium
 |[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/929-unique-email-addresses.py)||Easy
 |[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[split-linked-list-in-parts](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/725-split-linked-list-in-parts.py)||Medium
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[next-greater-element-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/496-next-greater-element-i.py)||Easy
@@ -489,7 +489,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)||[push-dominoes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/838-push-dominoes.cpp)|Medium
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)||[find-k-closest-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/658-find-k-closest-elements.cpp)|Medium
 |[1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)||[minimum-time-to-make-rope-colorful](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1578-minimum-time-to-make-rope-colorful.cpp)|Medium
-|[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)||[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
