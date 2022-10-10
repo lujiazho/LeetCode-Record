@@ -489,6 +489,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)||[push-dominoes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/838-push-dominoes.cpp)|Medium
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)||[find-k-closest-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/658-find-k-closest-elements.cpp)|Medium
 |[1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)||[minimum-time-to-make-rope-colorful](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1578-minimum-time-to-make-rope-colorful.cpp)|Medium
+|[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)||[break-a-palindrome](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1328-break-a-palindrome.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
