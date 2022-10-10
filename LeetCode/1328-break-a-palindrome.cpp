@@ -1,16 +1,25 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// easy recursion
+// easy
 ////////////////
 // Time Complexity: O(n)
-// Space Complexity: O(logn)
+// Space Complexity: O(1)
 ///////////////////////////////////////////////////////////////////////////////////////////////
 class Solution {
 public:
-    unordered_set<int> s;
-    bool findTarget(TreeNode* root, int k) {
-        if (!root) return false;
-        if (s.count(k - root->val)) return true;
-        s.insert(root->val);
-        return findTarget(root->left, k) || findTarget(root->right, k);
+    string breakPalindrome(string palindrome) {
+        int n = palindrome.size();
+        // no way to change it
+        if (n < 2) return "";
+        
+        // change the first "not a" to a
+        for (int i = 0; i < n / 2; ++i) {
+            if (palindrome[i] != 'a') {
+                palindrome[i] = 'a';
+                return palindrome;
+            }
+        }
+        // if all "a", change last one to "b"
+        palindrome[n - 1] = 'b';
+        return palindrome;
     }
 };
