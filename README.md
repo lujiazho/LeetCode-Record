@@ -491,6 +491,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)||[minimum-time-to-make-rope-colorful](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1578-minimum-time-to-make-rope-colorful.cpp)|Medium
 |[334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)||[increasing-triplet-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/334-increasing-triplet-subsequence.cpp)|Medium
 |[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)||[largest-perimeter-triangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/976-largest-perimeter-triangle.cpp)|Easy
+|[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||[delete-node-in-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/237-delete-node-in-a-linked-list.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
