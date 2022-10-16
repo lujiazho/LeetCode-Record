@@ -386,6 +386,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1473. Paint House III](https://leetcode.com/problems/paint-house-iii/)||[paint-house-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1473-paint-house-iii.cpp)|Hard
 |[576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)||[out-of-boundary-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/576-out-of-boundary-paths.cpp)|Medium
 |[1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)||[maximum-score-from-performing-multiplication-operations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1770-maximum-score-from-performing-multiplication-operations.cpp)|Medium
+|[1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)||[minimum-difficulty-of-a-job-schedule](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1335-minimum-difficulty-of-a-job-schedule.cpp)|Hard
 
 ### Ⅵ Greedy Algorithm
 |leetcode题目|Python代码|C++代码|难度|
