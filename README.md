@@ -196,6 +196,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)||[time-based-key-value-store](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/981-time-based-key-value-store.cpp)|Medium
 |(ordered map for presum)[732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)||[my-calendar-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/732-my-calendar-iii.cpp)|Hard
 |[1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[check-if-the-sentence-is-pangram](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1832-check-if-the-sentence-is-pangram.cpp)|Easy
+|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)||[top-k-frequent-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/692-top-k-frequent-words.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
