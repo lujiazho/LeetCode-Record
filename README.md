@@ -523,6 +523,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)||[pseudo-palindromic-paths-in-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1457-pseudo-palindromic-paths-in-a-binary-tree.cpp)|Medium
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||[trapping-rain-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/42-trapping-rain-water.cpp)|Hard
 |[1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)||[concatenation-of-consecutive-binary-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1680-concatenation-of-consecutive-binary-numbers.cpp)|Medium
+|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)||[integer-to-roman](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/12-integer-to-roman.cpp)|Medium
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
