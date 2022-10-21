@@ -497,6 +497,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)||[increasing-triplet-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/334-increasing-triplet-subsequence.cpp)|Medium
 |[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)||[largest-perimeter-triangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/976-largest-perimeter-triangle.cpp)|Easy
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||[delete-node-in-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/237-delete-node-in-a-linked-list.cpp)|Medium
+|[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)||[contains-duplicate-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/219-contains-duplicate-ii.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
