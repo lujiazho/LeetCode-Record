@@ -45,6 +45,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[longest-turbulent-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/978-longest-turbulent-subarray.py)||Medium
 |[55. Jump Game](https://leetcode.com/problems/jump-game/)|[jump-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/55-jump-game.py)||Medium
 |(segment tree)[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/53-maximum-subarray.py)|[maximum-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/53-maximum-subarray.cpp)|Easy
+|[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)||[set-mismatch](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/53-set-mismatch.cpp)|Easy
 
 #### 2 Two Pointers
 |leetcode题目|Python代码|C++代码|难度|
