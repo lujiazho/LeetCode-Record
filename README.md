@@ -528,6 +528,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||[trapping-rain-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/42-trapping-rain-water.cpp)|Hard
 |[1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)||[concatenation-of-consecutive-binary-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1680-concatenation-of-consecutive-binary-numbers.cpp)|Medium
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)||[integer-to-roman](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/12-integer-to-roman.cpp)|Medium
+|[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)||[continuous-subarray-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/523-continuous-subarray-sum.cpp)|Medium
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
