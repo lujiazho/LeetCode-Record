@@ -409,6 +409,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)||[the-number-of-weak-characters-in-the-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1996-the-number-of-weak-characters-in-the-game.cpp)|Medium
 |[948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)||[bag-of-tokens](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/948-bag-of-tokens.cpp)|Medium
 |[2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)||[find-original-array-from-doubled-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2007-find-original-array-from-doubled-array.cpp)|Medium
+|[2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)||[earliest-possible-day-of-full-bloom](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2136-earliest-possible-day-of-full-bloom.cpp)|Hard
 
 ### Ⅶ No Classification
 |leetcode题目|Python代码|C++代码|难度|
