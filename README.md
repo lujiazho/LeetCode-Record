@@ -285,7 +285,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
-|[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.py)||Hard
+|[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.py)|[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.cpp)|Hard
 |[310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[minimum-height-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/310-minimum-height-trees.py)||Medium
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[populating-next-right-pointers-in-each-node](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/116-populating-next-right-pointers-in-each-node.py)||Medium
 |[1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)||[jump-game-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1345-jump-game-iv.cpp)|Hard
@@ -301,7 +301,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)||[word-ladder-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/126-word-ladder-ii.cpp)|Hard
 |[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)||[average-of-levels-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/637-average-of-levels-in-binary-tree.cpp)|Easy
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)||[n-ary-tree-level-order-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/429-n-ary-tree-level-order-traversal.cpp)|Medium
-|[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)||[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.cpp)|Hard
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
