@@ -301,6 +301,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)||[word-ladder-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/126-word-ladder-ii.cpp)|Hard
 |[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)||[average-of-levels-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/637-average-of-levels-in-binary-tree.cpp)|Easy
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)||[n-ary-tree-level-order-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/429-n-ary-tree-level-order-traversal.cpp)|Medium
+|[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)||[shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1293-shortest-path-in-a-grid-with-obstacles-elimination.cpp)|Hard
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
