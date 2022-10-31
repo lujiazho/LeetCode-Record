@@ -503,6 +503,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||[delete-node-in-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/237-delete-node-in-a-linked-list.cpp)|Medium
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)||[contains-duplicate-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/219-contains-duplicate-ii.cpp)|Easy
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)||[check-if-two-string-arrays-are-equivalent](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1662-check-if-two-string-arrays-are-equivalent.cpp)|Easy
+|[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)||[toeplitz-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/766-toeplitz-matrix.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
