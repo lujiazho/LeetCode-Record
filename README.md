@@ -200,6 +200,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[check-if-the-sentence-is-pangram](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1832-check-if-the-sentence-is-pangram.cpp)|Easy
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)||[top-k-frequent-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/692-top-k-frequent-words.cpp)|Medium
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)||[group-anagrams](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/49-group-anagrams.cpp)|Medium
+|[2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)||[longest-palindrome-by-concatenating-two-letter-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2131-longest-palindrome-by-concatenating-two-letter-words.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
