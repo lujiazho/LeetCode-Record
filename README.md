@@ -507,6 +507,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)||[contains-duplicate-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/219-contains-duplicate-ii.cpp)|Easy
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)||[check-if-two-string-arrays-are-equivalent](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1662-check-if-two-string-arrays-are-equivalent.cpp)|Easy
 |[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)||[toeplitz-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/766-toeplitz-matrix.cpp)|Easy
+|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)||[reverse-vowels-of-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/345-reverse-vowels-of-a-string.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
