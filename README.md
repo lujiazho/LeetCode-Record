@@ -537,6 +537,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)||[integer-to-roman](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/12-integer-to-roman.cpp)|Medium
 |[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)||[continuous-subarray-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/523-continuous-subarray-sum.cpp)|Medium
 |[835. Image Overlap](https://leetcode.com/problems/image-overlap/)||[image-overlap](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/835-image-overlap.cpp)|Medium
+|[899. Orderly Queue](https://leetcode.com/problems/orderly-queue/)||[orderly-queue](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/899-orderly-queue.cpp)|Hard
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
