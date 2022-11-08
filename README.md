@@ -509,6 +509,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)||[toeplitz-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/766-toeplitz-matrix.cpp)|Easy
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)||[reverse-vowels-of-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/345-reverse-vowels-of-a-string.cpp)|Easy
 |[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)||[maximum-69-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1323-maximum-69-number.cpp)|Easy
+|[1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)||[make-the-string-great](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1544-make-the-string-great.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
