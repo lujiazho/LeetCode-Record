@@ -155,6 +155,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)||[132-pattern](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/456-132-pattern.cpp)|Medium
 |[32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)||[longest-valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/32-longest-valid-parentheses.cpp)|Hard
 |(mono)[901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)||[online-stock-span](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/901-online-stock-span.cpp)|Medium
+|[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)||[remove-all-adjacent-duplicates-in-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1047-remove-all-adjacent-duplicates-in-string.cpp)|Easy
 
 #### 3 Heap Optimization
 
