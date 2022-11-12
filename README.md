@@ -135,6 +135,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)||[kth-smallest-element-in-a-sorted-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/378-kth-smallest-element-in-a-sorted-matrix.cpp)|Medium
 |[1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)||[reduce-array-size-to-the-half](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1338-reduce-array-size-to-the-half.cpp)|Medium
 |[1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)||[maximum-performance-of-a-team](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1383-maximum-performance-of-a-team.cpp)|Hard
+|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)||[find-median-from-data-stream](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/295-find-median-from-data-stream.cpp)|Hard
 
 #### 2 Stack
 |leetcode题目|Python代码|C++代码|难度|
