@@ -74,7 +74,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(more than 2)[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)||[3sum-closest](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/16-3sum-closest.cpp)|Medium
 |[2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)||[delete-the-middle-node-of-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2095-delete-the-middle-node-of-a-linked-list.cpp)|Medium
 |[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||[minimum-window-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/76-minimum-window-substring.cpp)|Hard
-|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)||[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.cpp)|Medium
+|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.py)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.cpp)|Medium
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
@@ -426,7 +426,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/929-unique-email-addresses.py)||Easy
 |[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[split-linked-list-in-parts](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/725-split-linked-list-in-parts.py)||Medium
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[next-greater-element-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/496-next-greater-element-i.py)||Easy
-|[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.py)||Medium
 |[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.py)||Medium
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)||Medium
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[invert-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/226-invert-binary-tree.py)||Easy
