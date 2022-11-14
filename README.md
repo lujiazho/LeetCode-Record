@@ -287,6 +287,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)||[two-sum-iv-input-is-a-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/653-two-sum-iv-input-is-a-bst.cpp)|Easy
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)||[count-and-say](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/38-count-and-say.cpp)|Medium
 |[1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)||[where-will-the-ball-fall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1706-where-will-the-ball-fall.cpp)|Medium
+|[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)||[most-stones-removed-with-same-row-or-column](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/947-most-stones-removed-with-same-row-or-column.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
