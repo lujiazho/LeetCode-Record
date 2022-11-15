@@ -11,7 +11,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(binary search)[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[guess-number-higher-or-lower](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/374-guess-number-higher-or-lower.py)||Easy
 |(binary search)[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[construct-binary-search-tree-from-preorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1008-construct-binary-search-tree-from-preorder-traversal.py)||Medium
 |(binary search)[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[cousins-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/993-cousins-in-binary-tree.py)||Easy
-|(complete binary search)[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[count-complete-tree-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/222-count-complete-tree-nodes.py)||Medium
+|(complete binary search)[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[count-complete-tree-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/222-count-complete-tree-nodes.py)|[count-complete-tree-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/222-count-complete-tree-nodes.cpp)|Medium
 |(traversal)[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[sum-of-left-leaves](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/404-sum-of-left-leaves.py)||Easy
 |(binary search)[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/441-arranging-coins.py)||Easy
 |(bitmask)[1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[iterator-for-combination](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1286-iterator-for-combination.py)||Medium
@@ -288,7 +288,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)||[count-and-say](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/38-count-and-say.cpp)|Medium
 |[1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)||[where-will-the-ball-fall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1706-where-will-the-ball-fall.cpp)|Medium
 |[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)||[most-stones-removed-with-same-row-or-column](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/947-most-stones-removed-with-same-row-or-column.cpp)|Medium
-|[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)||[count-complete-tree-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/222-count-complete-tree-nodes.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
