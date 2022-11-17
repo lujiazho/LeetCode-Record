@@ -1,22 +1,19 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// easy
+// easy IOU
 ////////////////
-// Time Complexity: O(logn)
+// Time Complexity: O(1)
 // Space Complexity: O(1)
 ///////////////////////////////////////////////////////////////////////////////////////////////
 class Solution {
 public:
-    int guessNumber(int n) {
-        long long st = 1, ed = n;
-        while (1) {
-            long long mid = (st+ed) >> 1;
-            if (guess(mid) == 0) {
-                return mid;
-            } else if (guess(mid) == 1) {
-                st = mid + 1;
-            } else {
-                ed = mid - 1;
-            }
-        }
+    int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {
+        int s1 = (C - A) * (D - B);
+        int s2 = (G - E) * (H - F); 
+        // not intersect
+        if (A >= G || C <= E || D <= F || B >= H)
+            return s1 + s2; 
+        // find leftest right side, rightest left side
+        // upest down side, downest up side
+        return s1 + s2 - (min(G, C) - max(A, E)) * (min(D, H) - max(B, F));
     }
 };
