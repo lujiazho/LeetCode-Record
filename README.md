@@ -517,6 +517,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)||[make-the-string-great](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1544-make-the-string-great.cpp)|Easy
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||[remove-duplicates-from-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/26-remove-duplicates-from-sorted-array.cpp)|Easy
 |[223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)||[rectangle-area](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/223-rectangle-area.cpp)|Medium
+|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)||[valid-sudoku](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/36-valid-sudoku.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
