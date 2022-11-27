@@ -379,7 +379,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 #### 3 Counting Problem DP
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
-|[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)||Hard
+|[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.cpp)|Hard
 |[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[distinct-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/115-distinct-subsequences.py)||Hard
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[perfect-squares](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/279-perfect-squares.py)|[perfect-squares](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/279-perfect-squares.cpp)|Medium
 |[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/309-best-time-to-buy-and-sell-stock-with-cooldown.py)||Medium
