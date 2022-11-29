@@ -208,7 +208,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)||[group-anagrams](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/49-group-anagrams.cpp)|Medium
 |[2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)||[longest-palindrome-by-concatenating-two-letter-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2131-longest-palindrome-by-concatenating-two-letter-words.cpp)|Medium
 |[2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[find-players-with-zero-or-one-losses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2225-find-players-with-zero-or-one-losses.cpp)|Medium
-|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)||[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.cpp)|Medium
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
@@ -432,7 +431,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[unique-email-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/929-unique-email-addresses.py)||Easy
 |[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[split-linked-list-in-parts](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/725-split-linked-list-in-parts.py)||Medium
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[next-greater-element-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/496-next-greater-element-i.py)||Easy
-|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.py)||Medium
+|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.py)|[insert-delete-getrandom-o1](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/380-insert-delete-getrandom-o1.cpp)|Medium
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)||Medium
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[invert-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/226-invert-binary-tree.py)||Easy
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)||Medium
