@@ -208,6 +208,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)||[group-anagrams](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/49-group-anagrams.cpp)|Medium
 |[2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)||[longest-palindrome-by-concatenating-two-letter-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2131-longest-palindrome-by-concatenating-two-letter-words.cpp)|Medium
 |[2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[find-players-with-zero-or-one-losses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2225-find-players-with-zero-or-one-losses.cpp)|Medium
+|[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)||[unique-number-of-occurrences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1207-unique-number-of-occurrences.cpp)|Easy
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
