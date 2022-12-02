@@ -523,6 +523,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)||[rectangle-area](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/223-rectangle-area.cpp)|Medium
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)||[valid-sudoku](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/36-valid-sudoku.cpp)|Medium
 |[1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)||[determine-if-string-halves-are-alike](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1704-determine-if-string-halves-are-alike.cpp)|Easy
+|[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)||[determine-if-two-strings-are-close](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1657-determine-if-two-strings-are-close.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
