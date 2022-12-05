@@ -55,7 +55,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[sort-array-by-parity-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/922-sort-array-by-parity-ii.py)||Easy
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[sort-colors](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/75-sort-colors.py)||Medium
 |(more than 2)[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[odd-even-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/328-odd-even-linked-list.py)||Medium
-|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[middle-of-the-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/876-middle-of-the-linked-list.py)||Easy
+|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[middle-of-the-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/876-middle-of-the-linked-list.py)|[middle-of-the-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/876-middle-of-the-linked-list.cpp)|Easy
 |\*[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||[longest-substring-without-repeating-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/3-longest-substring-without-repeating-characters.cpp)|Medium
 |[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)||[swap-nodes-in-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/24-swap-nodes-in-pairs.cpp)|Medium
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)||[arithmetic-slices](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/413-arithmetic-slices.cpp)|Medium
@@ -76,7 +76,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)||[delete-the-middle-node-of-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2095-delete-the-middle-node-of-a-linked-list.cpp)|Medium
 |[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||[minimum-window-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/76-minimum-window-substring.cpp)|Hard
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.py)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.cpp)|Medium
-|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)||[middle-of-the-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/876-middle-of-the-linked-list.cpp)|Easy
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
