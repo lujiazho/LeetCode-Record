@@ -76,6 +76,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)||[delete-the-middle-node-of-a-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2095-delete-the-middle-node-of-a-linked-list.cpp)|Medium
 |[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||[minimum-window-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/76-minimum-window-substring.cpp)|Hard
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.py)|[reverse-words-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/151-reverse-words-in-a-string.cpp)|Medium
+|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)||[middle-of-the-linked-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/876-middle-of-the-linked-list.cpp)|Easy
 
 #### 3 Simulation(not from ACwing
 |leetcode题目|Python代码|C++代码|难度|
