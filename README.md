@@ -247,7 +247,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[binary-tree-tilt](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/563-binary-tree-tilt.py)||Easy
 |[1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[jump-game-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1306-jump-game-iii.py)||Medium
 |(DPorDFS+memorization)[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[partition-equal-subset-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/416-partition-equal-subset-sum.py)||Medium
-|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[range-sum-of-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/938-range-sum-of-bst.py)||Easy
+|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[range-sum-of-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/938-range-sum-of-bst.py)|[range-sum-of-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/938-range-sum-of-bst.cpp)|Easy
 |[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[maximum-difference-between-node-and-ancestor](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1026-maximum-difference-between-node-and-ancestor.py)||Medium
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)||[palindrome-partitioning](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/131-palindrome-partitioning.cpp)|Medium
 |[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)||[cherry-pickup-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1463-cherry-pickup-ii.cpp)|Hard
@@ -293,7 +293,6 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)||[count-and-say](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/38-count-and-say.cpp)|Medium
 |[1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)||[where-will-the-ball-fall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1706-where-will-the-ball-fall.cpp)|Medium
 |[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)||[most-stones-removed-with-same-row-or-column](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/947-most-stones-removed-with-same-row-or-column.cpp)|Medium
-|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)||[range-sum-of-bst](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/938-range-sum-of-bst.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
