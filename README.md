@@ -294,6 +294,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)||[where-will-the-ball-fall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1706-where-will-the-ball-fall.cpp)|Medium
 |[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)||[most-stones-removed-with-same-row-or-column](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/947-most-stones-removed-with-same-row-or-column.cpp)|Medium
 |[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)||[leaf-similar-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/872-leaf-similar-trees.cpp)|Easy
+|[1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)||[maximum-product-of-splitted-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1339-maximum-product-of-splitted-binary-tree.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
