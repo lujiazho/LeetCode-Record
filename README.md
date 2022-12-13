@@ -376,6 +376,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)||[best-time-to-buy-and-sell-stock-iv](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/188-best-time-to-buy-and-sell-stock-iv.cpp)|Hard
 |[91. Decode Ways](https://leetcode.com/problems/decode-ways/)||[decode-ways](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/91-decode-ways.cpp)|Medium
 |[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)||[number-of-dice-rolls-with-target-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1155-number-of-dice-rolls-with-target-sum.cpp)|Medium
+|[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/)||[minimum-falling-path-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/931-minimum-falling-path-sum.cpp)|Medium
 
 #### 2 Interval DP
 |leetcode题目|Python代码|C++代码|难度|
