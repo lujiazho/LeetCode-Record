@@ -162,6 +162,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)||[remove-all-adjacent-duplicates-in-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1047-remove-all-adjacent-duplicates-in-string.cpp)|Easy
 |(mono)[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)||[sum-of-subarray-minimums](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/907-sum-of-subarray-minimums.cpp)|Medium
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)||[implement-queue-using-stacks](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/232-implement-queue-using-stacks.cpp)|Easy
+|[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)||[evaluate-reverse-polish-notation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/150-evaluate-reverse-polish-notation.cpp)|Medium
 
 #### 3 Heap Optimization
 
