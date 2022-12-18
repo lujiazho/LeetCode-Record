@@ -145,7 +145,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |---|---|---|---
 |(double stack)[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[basic-calculator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/224-basic-calculator.py)|[basic-calculator](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/224-basic-calculator.cpp)|Hard
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|[min-stack](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/155-min-stack.py)||Easy
-|(Monotonic Stack)[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[daily-temperatures](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/739-daily-temperatures.py)||Medium
+|(Monotonic Stack)[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[daily-temperatures](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/739-daily-temperatures.py)|[daily-temperatures](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/739-daily-temperatures.cpp)|Medium
 |(monotonic stack)[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[maximal-rectangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/85-maximal-rectangle.py)||Hard
 |(double Stack)[394. Decode String](https://leetcode.com/problems/decode-string/)|[decode-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/394-decode-string.py)||Medium
 |(double Stack)[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[basic-calculator-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/227-basic-calculator-ii.py)||Medium
