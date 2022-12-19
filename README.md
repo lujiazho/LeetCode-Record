@@ -230,7 +230,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[accounts-merge](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/721-accounts-merge.py)||Medium
 |[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)||[smallest-string-with-swaps](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1202-smallest-string-with-swaps.cpp)|Medium
 |[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)||[satisfiability-of-equality-equations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/990-satisfiability-of-equality-equations.cpp)|Medium
-|[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)||[find-if-path-exists-in-graph/description](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1971-find-if-path-exists-in-graph.cpp)|Medium
+|[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)||[find-if-path-exists-in-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1971-find-if-path-exists-in-graph.cpp)|Medium
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
