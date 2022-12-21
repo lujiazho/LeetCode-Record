@@ -342,6 +342,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |leetcode题目|Python代码|C++代码|难度|
 |---|---|---|---
 |[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)||[is-graph-bipartite](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/785-is-graph-bipartite.cpp)|Medium
+|[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)||[possible-bipartition](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/886-possible-bipartition.cpp)|Medium
 
 ### Ⅳ Mathematics
 
