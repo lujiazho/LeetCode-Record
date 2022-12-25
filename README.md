@@ -534,6 +534,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)||[determine-if-string-halves-are-alike](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1704-determine-if-string-halves-are-alike.cpp)|Easy
 |[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)||[determine-if-two-strings-are-close](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1657-determine-if-two-strings-are-close.cpp)|Medium
 |[2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[minimum-average-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2256-minimum-average-difference.cpp)|Medium
+|[2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)||[longest-subsequence-with-limited-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2389-longest-subsequence-with-limited-sum.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
