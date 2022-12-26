@@ -1,0 +1,16 @@
+///////////////////////////////////////////////////////////////////////////////////////////////
+// easy
+////////////////
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+///////////////////////////////////////////////////////////////////////////////////////////////
+class Solution {
+public:
+    bool canJump(vector<int>& nums) {
+        int max_ = 1;
+        for (int i=0 ; i<nums.size() && i<max_ ; i++) {
+            max_ = max(max_, i+1+nums[i]);
+        }
+        return max_ >= nums.size();
+    }
+};
