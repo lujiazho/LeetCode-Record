@@ -535,6 +535,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)||[determine-if-two-strings-are-close](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1657-determine-if-two-strings-are-close.cpp)|Medium
 |[2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[minimum-average-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2256-minimum-average-difference.cpp)|Medium
 |[2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)||[longest-subsequence-with-limited-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2389-longest-subsequence-with-limited-sum.cpp)|Easy
+|[2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)||[maximum-bags-with-full-capacity-of-rocks](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2279-maximum-bags-with-full-capacity-of-rocks.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
