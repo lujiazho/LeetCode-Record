@@ -139,6 +139,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)||[reduce-array-size-to-the-half](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1338-reduce-array-size-to-the-half.cpp)|Medium
 |[1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)||[maximum-performance-of-a-team](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1383-maximum-performance-of-a-team.cpp)|Hard
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)||[find-median-from-data-stream](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/295-find-median-from-data-stream.cpp)|Hard
+|[1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)||[remove-stones-to-minimize-the-total](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1962-remove-stones-to-minimize-the-total.cpp)|Medium
 
 #### 2 Stack
 |leetcode题目|Python代码|C++代码|难度|
