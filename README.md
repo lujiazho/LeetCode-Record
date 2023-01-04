@@ -539,6 +539,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)||[longest-subsequence-with-limited-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2389-longest-subsequence-with-limited-sum.cpp)|Easy
 |[2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)||[maximum-bags-with-full-capacity-of-rocks](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2279-maximum-bags-with-full-capacity-of-rocks.cpp)|Medium
 |[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)||[delete-columns-to-make-sorted](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/944-delete-columns-to-make-sorted.cpp)|Easy
+|[2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)||[minimum-rounds-to-complete-all-tasks](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2244-minimum-rounds-to-complete-all-tasks.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
