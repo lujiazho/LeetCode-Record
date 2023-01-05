@@ -37,8 +37,9 @@ public:
         sort(points.begin(), points.end(), compare_2_vals);
         int res = 1, arrow = points[0][1];
         for (int i=1 ; i<points.size() ; i++){
-            while (i<points.size() && points[i][0] <= arrow)
-                i += 1;
+            // skip all balloons that can be shot by current arrow
+            while (i<points.size() && points[i][0] <= arrow) i += 1;
+            // if still got left ballon, we count next arrow
             if (i < points.size()){
                 arrow = points[i][1];
                 res += 1;
