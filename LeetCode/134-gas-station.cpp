@@ -51,18 +51,21 @@ public:
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int sum_diff = 0;
+        int sum_diff = 0; // used for checking overall difference
+
         int cur_idx = -1;
-        int cur_sum = 0;
+        int cur_sum = 0; // used for finding a place to start from
+
         for (int i=0 ; i<gas.size() ; i++){
             int di = gas[i]-cost[i];
             sum_diff += di;
-            if ((cur_sum + di) < 0){ // only when acc < 0, we restart
+            if ((cur_sum + di) < 0){ // only when acc < 0, reset
+                // because the prev start to current lcoation all cannot be the start
                 cur_idx = -1;
                 cur_sum = 0;
             }
-            else{
-                if (cur_idx == -1) cur_idx = i;
+            else{ // if acc >= 0, we may could go start with this place
+                if (cur_idx == -1) cur_idx = i; // only reset start place when it's -1
                 cur_sum += di;
             }
         }
