@@ -302,6 +302,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)||[maximum-product-of-splitted-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1339-maximum-product-of-splitted-binary-tree.cpp)|Medium
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)||[binary-tree-maximum-path-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/124-binary-tree-maximum-path-sum.cpp)|Hard
 |[834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)||[sum-of-distances-in-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/834-sum-of-distances-in-tree.cpp)|Hard
+|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)||[binary-tree-preorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/144-binary-tree-preorder-traversal.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
