@@ -304,6 +304,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)||[sum-of-distances-in-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/834-sum-of-distances-in-tree.cpp)|Hard
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)||[binary-tree-preorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/144-binary-tree-preorder-traversal.cpp)|Easy
 |[100. Same Tree](https://leetcode.com/problems/same-tree/description/)||[same-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/100-same-tree.cpp)|Easy
+|[1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)||[minimum-time-to-collect-all-apples-in-a-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1443-minimum-time-to-collect-all-apples-in-a-tree.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
