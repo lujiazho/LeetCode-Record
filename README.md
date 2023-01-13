@@ -306,6 +306,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[100. Same Tree](https://leetcode.com/problems/same-tree/description/)||[same-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/100-same-tree.cpp)|Easy
 |[1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)||[minimum-time-to-collect-all-apples-in-a-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1443-minimum-time-to-collect-all-apples-in-a-tree.cpp)|Medium
 |[1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/)||[number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.cpp)|Medium
+|[2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/)||[longest-path-with-different-adjacent-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2246-longest-path-with-different-adjacent-characters.cpp)|Hard
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
