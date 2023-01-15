@@ -234,6 +234,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)||[satisfiability-of-equality-equations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/990-satisfiability-of-equality-equations.cpp)|Medium
 |[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)||[find-if-path-exists-in-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1971-find-if-path-exists-in-graph.cpp)|Medium
 |[1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)||[lexicographically-smallest-equivalent-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1061-lexicographically-smallest-equivalent-string.cpp)|Medium
+|[2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/description/)||[number-of-good-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2421-number-of-good-paths.cpp)|Hard
 
 ### Ⅲ Search and Graph theory
 #### 1 DFS
