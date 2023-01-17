@@ -391,6 +391,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[91. Decode Ways](https://leetcode.com/problems/decode-ways/)||[decode-ways](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/91-decode-ways.cpp)|Medium
 |[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)||[number-of-dice-rolls-with-target-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1155-number-of-dice-rolls-with-target-sum.cpp)|Medium
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/)||[minimum-falling-path-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/931-minimum-falling-path-sum.cpp)|Medium
+|[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)||[flip-string-to-monotone-increasing](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/926-flip-string-to-monotone-increasing.cpp)|Medium
 
 #### 2 Interval DP
 |leetcode题目|Python代码|C++代码|难度|
