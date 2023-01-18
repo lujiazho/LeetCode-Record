@@ -550,6 +550,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)||[minimum-rounds-to-complete-all-tasks](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2244-minimum-rounds-to-complete-all-tasks.cpp)|Medium
 |[1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)||[maximum-ice-cream-bars](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1833-maximum-ice-cream-bars.cpp)|Medium
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)||[insert-interval](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/57-insert-interval.cpp)|Medium
+|[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)||[maximum-sum-circular-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/918-maximum-sum-circular-subarray.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
