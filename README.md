@@ -584,6 +584,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[263. Ugly Number](https://leetcode.com/problems/ugly-number/)||[ugly-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/263-ugly-number.cpp)|Easy
 |[587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)||[erect-the-fence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/587-erect-the-fence.cpp)|Hard
 |[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)||[max-points-on-a-line](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/149-max-points-on-a-line.cpp)|Hard
+|[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)||[subarray-sums-divisible-by-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/974-subarray-sums-divisible-by-k.cpp)|Medium
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
