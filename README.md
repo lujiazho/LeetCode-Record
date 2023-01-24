@@ -333,6 +333,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)||[n-ary-tree-level-order-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/429-n-ary-tree-level-order-traversal.cpp)|Medium
 |[433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)||[minimum-genetic-mutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/433-minimum-genetic-mutation.cpp)|Medium
 |[1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)||[nearest-exit-from-entrance-in-maze](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1926-nearest-exit-from-entrance-in-maze.cpp)|Medium
+|[909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)||[snakes-and-ladders](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/909-snakes-and-ladders.cpp)|Medium
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
