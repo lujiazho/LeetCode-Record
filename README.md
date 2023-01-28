@@ -116,6 +116,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |---|---|---|---
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[interval-list-intersections](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/986-interval-list-intersections.py)||Medium
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/56-merge-intervals.py)||Medium
+|[352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/)||[data-stream-as-disjoint-intervals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/352-data-stream-as-disjoint-intervals.cpp)|Medium
 
 #### 8 Prefix Sum
 |leetcode题目|Python代码|C++代码|难度|
