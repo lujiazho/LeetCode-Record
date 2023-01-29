@@ -216,6 +216,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[find-players-with-zero-or-one-losses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2225-find-players-with-zero-or-one-losses.cpp)|Medium
 |[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)||[unique-number-of-occurrences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1207-unique-number-of-occurrences.cpp)|Easy
 |[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)||[concatenated-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/472-concatenated-words.cpp)|Hard
+|[460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)||[lfu-cache](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/460-lfu-cache.cpp)|Hard
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
