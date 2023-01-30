@@ -315,6 +315,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)||[non-decreasing-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/491-non-decreasing-subsequences.cpp)|Medium
 |[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)||[restore-ip-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/93-restore-ip-addresses.cpp)|Medium
 |[2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)||[find-closest-node-to-given-two-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2359-find-closest-node-to-given-two-nodes.cpp)|Medium
+|[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)||[n-th-tribonacci-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1137-n-th-tribonacci-number.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
