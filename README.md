@@ -594,6 +594,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)||[erect-the-fence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/587-erect-the-fence.cpp)|Hard
 |[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)||[max-points-on-a-line](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/149-max-points-on-a-line.cpp)|Hard
 |[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)||[subarray-sums-divisible-by-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/974-subarray-sums-divisible-by-k.cpp)|Medium
+|[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)||[greatest-common-divisor-of-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1071-greatest-common-divisor-of-strings.cpp)|Easy
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
