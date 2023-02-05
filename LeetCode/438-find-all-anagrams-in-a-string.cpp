@@ -7,9 +7,11 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
+        // anagram can be represented by the counts of letters
         int letters[26] = {0};
         for (int i=0 ; i<p.length() ; i++)
             letters[p[i] - 'a'] += 1;
+        // cur is the window sliding through the string s
         int cur[26] = {0};
         vector<int> res;
         for (int i=0 ; i<s.length() ; i++){
@@ -20,9 +22,12 @@ public:
                         flag = 0;
                         break;
                     }
+                // i is the tail of the window
                 if (flag) res.push_back(i-p.length());
+                // remove oldest letter
                 cur[s[i-p.length()] - 'a'] -= 1;
             }
+            // push new letter
             cur[s[i] - 'a'] += 1;
         }
         // check the last part
