@@ -562,6 +562,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)||[insert-interval](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/57-insert-interval.cpp)|Medium
 |[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)||[maximum-sum-circular-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/918-maximum-sum-circular-subarray.cpp)|Medium
 |[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)||[zigzag-conversion](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/6-zigzag-conversion.cpp)|Medium
+|[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)||[shuffle-the-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1470-shuffle-the-array.cpp)|Easy
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
