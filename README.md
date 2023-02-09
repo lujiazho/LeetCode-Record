@@ -219,6 +219,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)||[concatenated-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/472-concatenated-words.cpp)|Hard
 |[460. LFU Cache](https://leetcode.com/problems/lfu-cache/description/)||[lfu-cache](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/460-lfu-cache.cpp)|Hard
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)||[fruit-into-baskets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/904-fruit-into-baskets.cpp)|Medium
+|[2306. Naming a Company](https://leetcode.com/problems/naming-a-company/description/)||[naming-a-company](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2306-naming-a-company.cpp)|Hard
 
 #### 5 Trie
 |leetcode题目|Python代码|C++代码|难度|
