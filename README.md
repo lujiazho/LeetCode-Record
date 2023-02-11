@@ -343,6 +343,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)||[snakes-and-ladders](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/909-snakes-and-ladders.cpp)|Medium
 |[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)||[cheapest-flights-within-k-stops](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/787-cheapest-flights-within-k-stops.cpp)|Medium
 |[1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)||[as-far-from-land-as-possible](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1162-as-far-from-land-as-possible.cpp)|Medium
+|[1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)||[shortest-path-with-alternating-colors](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1129-shortest-path-with-alternating-colors.cpp)|Medium
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
