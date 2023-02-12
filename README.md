@@ -318,6 +318,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)||[non-decreasing-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/491-non-decreasing-subsequences.cpp)|Medium
 |[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)||[restore-ip-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/93-restore-ip-addresses.cpp)|Medium
 |[2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)||[find-closest-node-to-given-two-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2359-find-closest-node-to-given-two-nodes.cpp)|Medium
+|[2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)||[minimum-fuel-cost-to-report-to-the-capital](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2477-minimum-fuel-cost-to-report-to-the-capital.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
