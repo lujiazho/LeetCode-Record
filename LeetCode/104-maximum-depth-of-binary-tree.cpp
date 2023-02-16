@@ -7,10 +7,7 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        return dfs(root);
-    }
-    int dfs(TreeNode* node){
-        if (!node) return 0;
-        return 1 + max(dfs(node->left), dfs(node->right));
+        if (!root) return 0;
+        return 1 + max(maxDepth(root->left), maxDepth(root->right));
     }
 };
