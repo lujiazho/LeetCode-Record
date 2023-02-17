@@ -319,6 +319,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)||[restore-ip-addresses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/93-restore-ip-addresses.cpp)|Medium
 |[2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/)||[find-closest-node-to-given-two-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2359-find-closest-node-to-given-two-nodes.cpp)|Medium
 |[2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)||[minimum-fuel-cost-to-report-to-the-capital](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2477-minimum-fuel-cost-to-report-to-the-capital.cpp)|Medium
+|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)||[minimum-distance-between-bst-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/783-minimum-distance-between-bst-nodes.cpp)|Easy
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
