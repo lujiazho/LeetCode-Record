@@ -40,6 +40,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(binary search)[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)||[find-first-and-last-position-of-element-in-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/34-find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium
 |(sort)[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.cpp)|Medium
 |(sort)[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)||[verifying-an-alien-dictionary](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/953-verifying-an-alien-dictionary.cpp)|Easy
+|(binary search)[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)||[capacity-to-ship-packages-within-d-days](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1011-capacity-to-ship-packages-within-d-days.cpp)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
