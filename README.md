@@ -170,6 +170,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)||[evaluate-reverse-polish-notation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/150-evaluate-reverse-polish-notation.cpp)|Medium
 
 #### 3 Heap Optimization
+|[502. IPO](https://leetcode.com/problems/ipo/description/)||[ipo](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/502-ipo.cpp)|Hard
 
 #### 4 Hash Table
 |leetcode题目|Python代码|C++代码|难度|
