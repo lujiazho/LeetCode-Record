@@ -412,6 +412,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)||[flip-string-to-monotone-increasing](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/926-flip-string-to-monotone-increasing.cpp)|Medium
 |[1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/)||[best-team-with-no-conflicts](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1626-best-team-with-no-conflicts.cpp)|Medium
 |[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)||[jump-game-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/45-jump-game-ii.cpp)|Medium
+|[72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)||[edit-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/72-edit-distance.cpp)|Hard
 
 #### 2 Interval DP
 |leetcode题目|Python代码|C++代码|难度|
