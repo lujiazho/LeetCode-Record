@@ -323,6 +323,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/description/)||[minimum-fuel-cost-to-report-to-the-capital](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2477-minimum-fuel-cost-to-report-to-the-capital.cpp)|Medium
 |[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/)||[minimum-distance-between-bst-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/783-minimum-distance-between-bst-nodes.cpp)|Easy
 |[427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)||[construct-quad-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/427-construct-quad-tree.cpp)|Medium
+|[652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)||[find-duplicate-subtrees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/652-find-duplicate-subtrees.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
