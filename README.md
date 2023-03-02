@@ -579,6 +579,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)||[shuffle-the-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1470-shuffle-the-array.cpp)|Easy
 |[1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)||[count-odd-numbers-in-an-interval-range](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1523-count-odd-numbers-in-an-interval-range.cpp)|Easy
 |[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)||[add-to-array-form-of-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/989-add-to-array-form-of-integer.cpp)|Easy
+|[443. String Compression](https://leetcode.com/problems/string-compression/description/)||[string-compression](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/443-string-compression.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
