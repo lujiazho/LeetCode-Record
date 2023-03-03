@@ -615,6 +615,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)||[max-points-on-a-line](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/149-max-points-on-a-line.cpp)|Hard
 |[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)||[subarray-sums-divisible-by-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/974-subarray-sums-divisible-by-k.cpp)|Medium
 |[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)||[greatest-common-divisor-of-strings](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1071-greatest-common-divisor-of-strings.cpp)|Easy
+|(KMP)[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)||[find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/28-find-the-index-of-the-first-occurrence-in-a-string.cpp)|Medium
 
 ### Ⅸ Outsiders (never learned the algorithm)
 |leetcode题目|Python代码|C++代码|难度|
