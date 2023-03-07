@@ -42,6 +42,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |(sort)[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)||[verifying-an-alien-dictionary](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/953-verifying-an-alien-dictionary.cpp)|Easy
 |(binary search)[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)||[capacity-to-ship-packages-within-d-days](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1011-capacity-to-ship-packages-within-d-days.cpp)|Medium
 |(sort)[912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)||[sort-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/912-sort-an-array.cpp)|Medium
+|(binary search)[2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)||[minimum-time-to-complete-trips](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2187-minimum-time-to-complete-trips.cpp)|Medium
 
 #### 1 one Pointer
 |leetcode题目|Python代码|C++代码|难度|
