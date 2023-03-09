@@ -11,8 +11,7 @@ public:
         ListNode* i = head;
         while (i != NULL){
             auto get = s.find(i);
-            if (get != s.end())
-                return i;
+            if (get != s.end()) return i;
             s.insert(i);
             i = i->next;
         }
