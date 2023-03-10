@@ -16,9 +16,8 @@ public:
         int i = 2;
         ListNode* next = h->next;
         while(next){
-            if (rand()*1.0 / RAND_MAX < 1.0/i){ // we can calculate that the probability for each number is equal
-                val = next->val;
-            }
+            // we can calculate that the probability for each number is equal
+            if (rand()*1.0 / RAND_MAX < 1.0/i) val = next->val;
             i += 1;
             next = next->next;
         }
