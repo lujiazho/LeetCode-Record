@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
-// utilize heap
+// utilize heap, nothing magic just sort all together
 ////////////////
 // Time Complexity: O(n), this is n because the number of all nodes won't exceed the max length of lists, which is n
 // Space Complexity: O(n)
