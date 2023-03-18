@@ -585,6 +585,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)||[add-to-array-form-of-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/989-add-to-array-form-of-integer.cpp)|Easy
 |[443. String Compression](https://leetcode.com/problems/string-compression/description/)||[string-compression](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/443-string-compression.cpp)|Medium
 |[2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)||[count-subarrays-with-fixed-bounds](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2444-count-subarrays-with-fixed-bounds.cpp)|Hard
+|[1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)||[design-browser-history](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1472-design-browser-history.cpp)|Medium
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
