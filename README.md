@@ -356,6 +356,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)||[as-far-from-land-as-possible](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1162-as-far-from-land-as-possible.cpp)|Medium
 |[1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/)||[shortest-path-with-alternating-colors](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1129-shortest-path-with-alternating-colors.cpp)|Medium
 |[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)||[binary-tree-zigzag-level-order-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/103-binary-tree-zigzag-level-order-traversal.cpp)|Medium
+|[2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)||[minimum-score-of-a-path-between-two-cities](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2492-minimum-score-of-a-path-between-two-cities.cpp)|Medium
 
 #### 3 Topological Sorting
 |leetcode题目|Python代码|C++代码|难度|
