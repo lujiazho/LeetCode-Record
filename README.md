@@ -330,6 +330,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)||[convert-sorted-list-to-binary-search-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/109-convert-sorted-list-to-binary-search-tree.cpp)|Medium
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)||[symmetric-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/101-symmetric-tree.cpp)|Easy
 |[1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)||[number-of-operations-to-make-network-connected](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1319-number-of-operations-to-make-network-connected.cpp)|Medium
+|[2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/)||[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
