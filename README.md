@@ -590,6 +590,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)||[count-subarrays-with-fixed-bounds](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2444-count-subarrays-with-fixed-bounds.cpp)|Hard
 |[1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)||[design-browser-history](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1472-design-browser-history.cpp)|Medium
 |[2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)||[number-of-zero-filled-subarrays](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2348-number-of-zero-filled-subarrays.cpp)|Medium
+|[2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)||[longest-cycle-in-a-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2360-longest-cycle-in-a-graph.cpp)|Hard
 
 ### Ⅷ Math Property
 |leetcode题目|Python代码|C++代码|难度|
