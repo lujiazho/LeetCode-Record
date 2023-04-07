@@ -334,6 +334,7 @@ A record for coding practice on leetcode. Notation '\*' means appearing the seco
 |[2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/)||[count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp)|Medium
 |[87. Scramble String](https://leetcode.com/problems/scramble-string/description/)||[scramble-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/87-scramble-string.cpp)|Hard
 |[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)||[number-of-closed-islands](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1254-number-of-closed-islands.cpp)|Medium
+|[1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)||[number-of-enclaves](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1020-number-of-enclaves.cpp)|Medium
 
 #### 2 BFS
 |leetcode题目|Python代码|C++代码|难度|
