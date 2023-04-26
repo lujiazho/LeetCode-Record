@@ -8,13 +8,12 @@ class Solution {
 public:
     int addDigits(int num) {
         while (num > 9){
-            int cur = num;
-            int sum = 0;
-            while (cur){
-                sum += cur % 10;
-                cur /= 10;
+            int tmp = 0;
+            while (num) {
+                tmp += num % 10;
+                num /= 10;
             }
-            num = sum;
+            num = tmp;
         }
         return num;
     }
